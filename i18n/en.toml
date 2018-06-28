@@ -43,9 +43,6 @@
 
 [why_title]
     other = "What Is Vertcoin?"
-[why_description]
-    other = "Quite simply, Vertcoin is a mature, credible and viable alternative to cryptocurrency solutions. Technically one of the strongest coins on the market, led by some of the industry’s greatest minds it is more progressive in its attitude and operation. It’s powered by its community who are rewarded by a fair and honest currency system. If that’s a lot to digest, here’s a fancy video we made just for you."
-
 
 
 # How
@@ -53,7 +50,7 @@
 [how_title]
     other = "Building a better Lightning Network"
 [how_description]
-    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the whitepaper. By solving the issues of multi-coin cryptocurrency scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin and it’s really fast."
+    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the lightning whitepaper. By solving the issues of multi-coin cryptocurrency scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin and it’s really fast."
 
 
 
