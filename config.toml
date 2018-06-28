@@ -1,0 +1,236 @@
+baseURL = "https://vertcoin.org/"
+DefaultContentLanguage = "en"
+title = "Vertcoin"
+theme = "elate"
+
+
+#This file prints out code blocks
+
+
+
+#Language
+
+
+    [languages]
+    [languages.en]
+    languageName = "English"
+    weight = 1
+
+   
+
+
+# Menu
+
+[[menu.main]]
+url = "/merchants/"
+name = "merchants"
+weight = 5
+
+[[menu.main]]
+url = "/trading/"
+name = "trading"
+weight = 7
+
+[[menu.main]]
+url = "/mine/"
+name = "mine"
+weight = 9
+
+[[menu.main]]
+url = "/community/"
+name = "community"
+weight = 11
+
+
+
+
+
+	
+	
+
+#Parameters
+
+
+[params]
+
+
+
+
+  [params.navigation]
+
+
+  [params.action]
+
+    [[params.navigationAction.item]]
+
+
+  [params.desktopDownload]
+
+
+    [[params.desktopButton.item]]
+
+
+[params.mobileDownload]
+
+
+    [[params.mobileButton.item]]
+
+
+
+
+
+
+
+  
+
+# How Questions
+
+    [params.howQuestion]
+    [[params.howQuestion.item]]
+    url = "../whatismining/"
+    target = "_blank"
+  
+
+# Adoption Links
+
+    [params.adoption]
+    [[params.adoption.item]]
+    url = "https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/"
+    target = "_blank"
+
+
+
+
+
+# Guides
+
+    [params.guide]
+    [[params.guide.item]]
+    url = "community"
+    [[params.guide.item]]
+    url = "specifications-explained"
+
+
+# Social Links - Community Section
+
+
+
+    [params.communityStatus]
+    [[params.communityStatus.item]]
+    social = [
+            ["icon-reddit", "https://reddit.com/r/vertcoin"],
+            ["icon-twitter", "https://twitter.com/vertcoin"],
+            ["icon-discord", "https://discord.gg/vertcoin"]
+          ]
+
+
+
+ # About Section
+
+  [params.about]
+
+    [[params.about.item]]
+      name = "Vertcoin Community"
+      img = "placeholder.png"
+      alt = "Community"
+      social = [
+            ["icon-reddit", "https://reddit.com/r/vertcoin"],
+            ["icon-twitter", "https://twitter.com/vertcoin"],
+            ["icon-discord", "https://discord.gg/vertcoin"],
+            ["icon-github", "https://github.com/vertcoin-project"]
+      ]
+
+
+    [[params.about.item]]
+      name = "James Lovejoy"
+      img = "james.jpg"
+      alt = "James Lovejoy"
+      social = [
+        ["icon-twitter", "https://twitter.com/jamesl22"],
+        ["icon-github", "https://github.com/metalicjames/"],
+        ["icon-linkedin", "https://www.linkedin.com/in/james-lovejoy-48ab16131/"]
+      ]
+
+    [[params.about.item]]
+      name = "Joe Straub"
+      img = "joe.jpg"
+      alt = "Zemrys"
+      social = [
+        ["icon-github", "https://github.com/zemrys"]
+      ]
+
+    [[params.about.item]]
+      name = "Eric Kubik"
+      img = "eric.png"
+      alt = "Eric"
+      social = [
+        ["icon-twitter", "https://twitter.com/etang600"]
+      ]
+
+    [[params.about.item]]
+      name = "Star Im"
+      img = "star.jpg"
+      alt = "Star"
+      social = []
+
+
+    [[params.about.item]]
+      name = "Gert-Jaap Glasbergen"
+      img = "gertjaap.jpg"
+      alt = "Gert-Jaap Glasbergen"
+      social = [
+        ["icon-twitter", "https://twitter.com/gertjaap"],
+        ["icon-github", "https://github.com/gertjaap"],
+        ["icon-linkedin", "https://www.linkedin.com/in/gertjaap"]
+      ]
+
+    [[params.about.item]]
+      name = "Alex Turek"
+      img = "person1.png"
+      alt = "Alex Turek"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/turekaj/"]
+      ]
+
+    [[params.about.item]]
+      name = "jk_14"
+      img = "person1.png"
+      alt = "jk_14"
+      social = []
+
+    [[params.about.item]]
+      name = "pknight"
+      img = "person2.png"
+      alt = "pknight"
+      social = []
+
+
+    [[params.about.item]]
+      name = "Daiki"
+      img = "daiki.jpg"
+      alt = "Daiki"
+      social = []
+
+
+     [[params.about.item]]
+      name = "CryptoPlankton"
+      img = "person2.png"
+      alt = "CryptoPlankton"
+      social = [
+        ["icon-twitter", "https://twitter.com/cryptoplankto"],
+      ]
+    
+
+
+
+
+ [params.contact]
+
+
+
+
+  [params.footer]
+    enable = true
+    copyright = ''
+
+

@@ -1,0 +1,36 @@
+
+<style type="text/css">
+	 #fh5co-intro {
+        background: none !important;
+    }
+</style>
+<div class="donationGoal" style="" data-address="{{ .Get "address" }}" data-goal="{{ .Get "goal" }}">
+
+
+
+        <h2>{{.Get "title"}}</h2>
+
+        <!--<p>{{.Get "description"}}</p>-->
+
+
+
+                <div class="progress">
+                    <div class="progress-bar progress-bar-striped progress-bar-success active" role="progressbar"
+                    aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                       
+                    </div>
+
+                </div>
+
+
+
+<div style="width: 100%;">
+
+<p style="font-size: 18px"><strong>{{ i18n "donation_goal" | markdownify }}: {{ .Get "goal" }} {{ .Get "goalDescription" }}</strong></p>
+
+           <h2 style="color: #048657"><strong><span class="donationAmount">0</span> VTC</strong></h2>
+        <p class="donationAddress">{{ i18n "donation_address" | markdownify }}: <a target="_blank" href="https://insight.vertcoin.org/address/{{ .Get "address" }}">{{ .Get "address" }}</a></p>
+
+</div>
+
+</div>

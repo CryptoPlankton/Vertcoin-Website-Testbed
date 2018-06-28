@@ -1,0 +1,89 @@
+<section id="home-why" data-section="home-why">
+
+
+
+
+
+        <div class="wrapper">
+            
+                <div class="childController">
+
+
+                    <h3>{{ i18n "why_title" | markdownify }}</h3>
+
+
+
+      <div style="margin: 0 auto; max-width: 794px">           
+<div class="mainvideo">
+      <div onclick="loadYoutubeVideo(event);" ontouchstart="loadYoutubeVideo(event);" data-youtubeurl="//www.youtube.com/embed/Gc2en3nHxA4?rel=0&amp;showinfo=0&amp;wmode=opaque&amp;autoplay=1">
+      <img src="https://bitcoin.org/img/video/video_wuc.jpg" alt="Youtube video">
+
+      <div class="mainvideoicon"></div>
+      <div class="mainvideoiconhover"></div>
+    </div>
+</div>
+</div>   
+
+
+
+
+
+
+
+
+
+
+                 
+
+                  	<div class="largeButton">
+                  		Get Started With Vertcoin
+                  	</div>
+                  	<div class="overview">
+	                  	<div class="overviewHead">Or get a quick overview for</div>
+	                  	<div class="bulletPoint spaceBetween overview noMarginBottom">
+	                    	<a>Individuals</a>
+	                    	<a>Businesses</a>
+	                    	<a>Developers</a>
+
+	                    </div>
+                    </div>
+                </div>
+            
+        </div>
+
+
+
+
+
+
+
+
+</section>
+
+<script type="text/javascript">
+  var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+
+
+var player;
+function onYouTubeIframeAPIReady() {
+    player = new YT.Player('player', {
+        height: '390',
+        width: '640',
+        videoId: 'M7lc1UVf-VE',
+        events: {
+            'onReady': onPlayerReady
+        }
+    });
+}
+
+
+function onPlayerReady(event) {
+    player.setPlaybackRate(1);
+   
+}
+</script>

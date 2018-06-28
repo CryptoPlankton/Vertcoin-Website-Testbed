@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+  <head>
+    {{ partial "head.html" .}}
+      <style>
+          #fh5co-home {
+
+              overflow: initial;
+
+          }
+      </style>
+  </head>
+  <body>
+    {{ partial "nav.html" .}}
+    
+    <div id="fh5co-home" class="small-home centre">
+        
+
+          <section style="position: absolute; width: 100%">
+          <h1 style="font-size: 43px; margin-top: 0px; line-height: 1.5;">{{ .Title }}</h1>
+
+   
+    <section class="container content-container">
+
+            {{ .Content }}
+
+    </section>
+    
+    <div class="singleFooter">
+        {{ partial "footer.html" .}}
+    </div>
+
+
+    {{ partial "js.html" .}}
+  </body>
+</html>
