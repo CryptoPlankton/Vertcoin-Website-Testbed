@@ -2600,7 +2600,7 @@ section.separator-greenLine:before {
 
 .mainvideo .mainvideoicon {
     display: block;
-    background: url(https://bitcoin.org/img/icons/video_play.svg) center center no-repeat;
+    background: url(/images/video_play.svg) center center no-repeat;
 }
 
 .mainvideo .mainvideoiconhover {
