@@ -2554,6 +2554,7 @@ section.separator-greenLine:before {
     margin-top: 89px;
     padding: 22px 20px;
     box-shadow: 0px 3px 4px rgba(0,0,0,0.15);
+    cursor: pointer;
 }
 
 .overview {
