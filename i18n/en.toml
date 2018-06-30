@@ -50,7 +50,7 @@
 [how_title]
     other = "Building a better Lightning Network"
 [how_description]
-    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the whitepaper. By solving the issues of multi-coin cryptocurrency interoperability, scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin.. oh and it’s fast."
+    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the original lightning whitepaper. By solving the issues of multi-coin cryptocurrency interoperability, scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin... oh and it’s fast."
 
 
 
@@ -92,7 +92,7 @@
 
 
 [atomicSwaps_description]
-    other = "LITbox is a Vertcoin project and is the final step in completing a fully trustless, scalable, censorship resistant, lightning enabled system that is easy to use. We’ve been playing the long game for the last four years. A multicoin, multichannel future is around the corner. A future where people will use cryptocurrency to buy groceries and where merchants accept it because of the ridiculously low fees (sorry banks). Vertcoin is driving LITbox’s revolutionary UI. We’re making it accessible to everyday users, merchants and even their parents (that’s right baby boomers we’ve thought of you too)."
+    other = "LITbox is a Vertcoin project and is the final piece in completing a fully trustless, scalable, censorship resistant, lightning enabled system that is easy to use. We’ve been playing the long game for the last four years. A multicoin, multichannel future is around the corner. A future where people will use cryptocurrency to buy groceries and where merchants accept it because of the ridiculously low fees (sorry banks). Vertcoin is driving LITbox’s revolutionary UI. We’re making it accessible to everyday users, merchants and even their parents (that’s right baby boomers we’ve thought of you too)."
 
 
 
