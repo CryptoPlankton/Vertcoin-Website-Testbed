@@ -1,4 +1,4 @@
-<section id="home-how" data-section="home-how">
+<section id="home-lit" data-section="home-how">
 
 
 
@@ -9,11 +9,18 @@
                 <div class="childController">
 
 
-                    <h3>{{ i18n "how_title" | markdownify }}</h3>
+                    <h3>{{ i18n "lit_title" | markdownify }}</h3>
                     <div class="bulletPoint spaceBetween">
-                    	<div>Natively Multicoin</div>
-                    	<div>Unified Lightning Network</div>
-                    	<div>Better Architecture</div>
+
+
+                        {{ range $index, $element := .Site.Params.litPoints.item }}
+
+                    <div>{{ i18n (printf "litPoints_%d_title" $index) | markdownify }}</div>
+
+
+                    {{ end }}
+
+
                     </div>
                     <div class="bulletPoint spaceAround">
                     	<div>
@@ -56,7 +63,7 @@
         </g>
     </g>
 </svg>
-<div class="topologylabel">Current</div>
+<div class="topologylabel">{{ i18n "litDiagram_title" | markdownify }}</div>
                     	</div>
                     	<div>
                     		
@@ -99,7 +106,7 @@
                     </div>
 
                 </div>
-                <p class="">{{ i18n "how_description" | markdownify }}</p>
+                <p class="">{{ i18n "lit_description" | markdownify }}</p>
           		
 <svg class="litLogo" width="199px" height="141px" viewBox="0 0 199 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->

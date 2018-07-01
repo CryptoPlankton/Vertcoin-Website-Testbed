@@ -70,24 +70,45 @@ weight = 11
     [[params.desktopButton.item]]
 
 
-[params.mobileDownload]
-
-
-    [[params.mobileButton.item]]
 
 
 
 
 
+# quickOverview 
+
+[params.quickOverview]
+    [[params.quickOverview.item]]
+    url = "/vertcoin-for-individuals"
+    [[params.quickOverview.item]]
+     url = "/vertcoin-for-businesses"
+    [[params.quickOverview.item]]
+    url = "/vertcoin-for-developers"
 
 
-  
+# litPoints
 
-# How Questions
+[params.litPoints]
+    [[params.litPoints.item]]
+    [[params.litPoints.item]]
+    [[params.litPoints.item]]
 
-    [params.howQuestion]
-    [[params.howQuestion.item]]
-    url = "../whatismining/"
+
+# litboxPoints 
+
+[params.litboxPoints]
+    [[params.litboxPoints.item]]
+    [[params.litboxPoints.item]]
+    [[params.litboxPoints.item]]
+
+
+
+
+# litLinks
+
+    [params.litLinks]
+    [[params.litLinks.item]]
+    url = "https://github.com/mit-dci/lit"
     target = "_blank"
   
 
@@ -101,27 +122,16 @@ weight = 11
 
 
 
+# Values
 
-# Guides
-
-    [params.guide]
-    [[params.guide.item]]
-    url = "community"
-    [[params.guide.item]]
-    url = "specifications-explained"
-
-
-# Social Links - Community Section
+ [params.values]
+    [[params.values.item]]
+    [[params.values.item]]
+    [[params.values.item]]
 
 
 
-    [params.communityStatus]
-    [[params.communityStatus.item]]
-    social = [
-            ["icon-reddit", "https://reddit.com/r/vertcoin"],
-            ["icon-twitter", "https://twitter.com/vertcoin"],
-            ["icon-discord", "https://discord.gg/vertcoin"]
-          ]
+   
 
 
 
@@ -219,6 +229,19 @@ weight = 11
       social = [
         ["icon-twitter", "https://twitter.com/cryptoplankto"],
       ]
+
+
+      
+      [[params.about.item]]
+      name = "Suriyaa Sundararuban"
+      img = "person2.png"
+      alt = "Suriyaa"
+      social = [
+        ["icon-twitter", "https://twitter.com/SuriyaaKudoIsc"],
+        ["icon-github", "https://github.com/SuriyaaKudoIsc"],
+        ["icon-linkedin", "https://www.linkedin.com/in/suriyaakudo/"]
+      ]
+
     
 
 

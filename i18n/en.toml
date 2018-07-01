@@ -1,6 +1,7 @@
 
-# Navigation Section
+# Navigation
 
+    
     [navigation_titles_merchants]
     other = "Merchants"
 
@@ -17,143 +18,129 @@
 	
 	
 
+# What is Vertcoin
 
-
-# Hero Desktop Downloads
-
-     [desktopDownload_0_title]
-        other = "Download Wallet"
-
-
-# Hero Mobile Downloads
-
-     [mobileDownload_0_title]
-        other = "Download One-Click Miner"
-
-
-
-
-
-
-
-
-
-
-# Why Section
-
-[why_title]
+   
+    [what_title]
     other = "What Is Vertcoin?"
 
 
-# How
 
-[how_title]
+# Get Started Button
+
+    [getStarted_title]
+    other = "Get Started With Vertcoin"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "Or get a quick overview for"
+
+    [quickOverview_0_title]
+    other = "Individuals"
+
+    [quickOverview_1_title]
+    other = "Businesses"
+
+    [quickOverview_2_title]
+    other = "Developers"
+
+
+
+# LIT
+
+
+    [lit_title]
     other = "Building a better Lightning Network"
-[how_description]
-    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the original lightning whitepaper. By solving the issues of multi-coin cryptocurrency interoperability, scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin... oh and it’s fast."
+
+
+    [litPoints_0_title]
+    other = "Natively Multicoin"
+
+    [litPoints_1_title]
+    other = "Unified Lightning Network"
+
+    [litPoints_2_title]
+    other = "Better Architecture"
+
+
+
+    [litDiagram_title]
+    other = "Current"
+
+
+
+    [lit_description]
+    other = "LIT is what Lightning was meant to be. Infact it’s the original code by the co-author of the whitepaper. By solving the issues of multi-coin cryptocurrency interoperability, scalability, network congestion, high transaction fees and slow transaction speeds, LIT is a real world solution for cryptocurrencies like Bitcoin, Vertcoin and Litecoin... oh and it’s fast."
 
 
 
 
 
+# LITBOX
 
-# How Questions FAQ
-
-
-[howQuestion_0_title]
-    other = "https://github.com/mit-dci/lit"
-
-
-
-
-
-
-
-
-
-
-# Lit Ecosystem
-
-[litEcosystem_title]
-    other = "Join thousands of miners to support Vertcoin’s Network"
-
-[litEcosystem_subtitle]
-    other = "Lightning Wallet - Development Focus"
-
-[litEcosystem_description]
-    other = ""
-
-
-
-# Atomic Swaps
-
-[atomicSwaps_title]
+    [litBox_title]
     other = "Meet LITbox: The ‘Router’ of Crypto"
 
+    [litboxPoints_0_title]
+    other = "Single Address For Your Coins"
 
-[atomicSwaps_description]
+    [litboxPoints_1_title]
+    other = "Lightning Payments"
+
+    [litboxPoints_2_title]
+    other = "Censorship Resistance"
+
+
+    [litBox_description]
     other = "LITbox is a Vertcoin project and is the final piece in completing a fully trustless, scalable, censorship resistant, lightning enabled system that is easy to use. We’ve been playing the long game for the last four years. A multicoin, multichannel future is around the corner. A future where people will use cryptocurrency to buy groceries and where merchants accept it because of the ridiculously low fees (sorry banks). Vertcoin is driving LITbox’s revolutionary UI. We’re making it accessible to everyday users, merchants and even their parents (that’s right baby boomers we’ve thought of you too)."
 
 
 
-# Atomic Swaps Section Picture
-
-[atomicSwapsPicture_0_title]
-    other = "Trustless Swap (No 3rd Party)"
-[atomicSwapsPicture_1_title]
-    other = "Lightning Network (Non Commercial) MIT Version"
 
 
-
-# Atomic Swaps Section Picture
-
-
-[atomicSwapsPictureCaption_0_title]
-    other = "Trustless Swap (No 3rd Party)"
-[atomicSwapsPictureCaption_1_title]
-    other = "Example: Merchant receives LTC and BTC and then converts them ‘on the fly’ into the equivalent fiat value of Vertcoins using a liquidity network. <br><br> Further Segwit coins can be added in the ease."
+# Mining Call To Action
 
 
-# Adoption Links
-
-[adoption_0_title]
-    other = "Lightning Network Implementations"
-
-
-
-
-# Social Contract
-
-[socialContract_title]
+    [oneClick_title]
     other = "Join thousands of miners to support Vertcoin’s Network"
-[socialContract_description]
+    [oneClick_description]
     other = "THE PEOPLE'S COIN"
+    [oneClick_download]
+    other = "Download One-Click Miner"
 
 
 
 
+# Reason
 
 
-
-
-
-
-# Community Status
-
-[communityStatus_title]
-    other = "The People's Coin"
-[communityStatus_description]
+    [reason_description]
     other = 'Vertcoin runs as close as possible to Cryptocurrency fundamentals, the whole "be your own bank" movement that started the cryptocurrency movement. Vertcoin is chasing something entirely different from the ICO/Premine, take and run crew. We just want to change the financial system for the better.'
 
 
-# Guides
+
+# Values
 
 
-[guide_0_title]
-    other = "Contribute Your Skills"
-[guide_1_title]
-    other = "Vertcoin Specifications Explained"
+[values_0_title]
+    other = "No Premine"
 
+    [values_1_title]
+    other = "No ICO"
+
+    [values_2_title]
+    other = "No Airdrop"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin runs entirely on community <a href='/donate'>donations</a>."
 
 
 
@@ -239,14 +226,15 @@
     [about_10_description]
     other = "CryptoPlankton helped build the new Vertcoin website and implement various branding upgrades. He is currently working the multicoin lightning wallet application as a UX specialist."
 
+    
+    [about_11_position]
+    other = "Developer & Bug Bounty Initiator"
+    [about_11_description]
+    other = "Suriyaa has been programming since age 11. He is a student of TUM, working on multiple Open Source projects. Suriyaa joined the Vertcoin team in June 2018 after a friend recommended to use Vertcoin. He started as a developer, but is currently involved in web development. He is the initiator of the Vertcoin's Bug Bounty program."
 
 
 
 
-# Contact
-
-[contact_title]
-    other = "How it should be"
 
 
 

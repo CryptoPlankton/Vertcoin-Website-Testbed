@@ -9,7 +9,7 @@
                 <div class="childController">
 
 
-                    <h3>{{ i18n "why_title" | markdownify }}</h3>
+                    <h3>{{ i18n "what_title" | markdownify }}</h3>
 
 
 
@@ -35,15 +35,25 @@
 
                  
 
-                  	<div class="largeButton">
-                  		Get Started With Vertcoin
-                  	</div>
+                  	<a href="/download" class="largeButton">
+                  		{{ i18n "getStarted_title" | markdownify }}
+                  	</a>
                   	<div class="overview">
-	                  	<div class="overviewHead">Or get a quick overview for</div>
+	                  	<div class="overviewHead">{{ i18n "overview_title" | markdownify }}</div>
 	                  	<div class="bulletPoint spaceBetween overview noMarginBottom">
-	                    	<a>Individuals</a>
-	                    	<a>Businesses</a>
-	                    	<a>Developers</a>
+
+
+{{ range $index, $element := .Site.Params.quickOverview.item }}
+
+                    <a href='{{ .url }}' target='{{ .target }}'>{{ i18n (printf "quickOverview_%d_title" $index) | markdownify }}</a>
+
+
+                    {{ end }}
+
+
+
+
+	                    	
 
 	                    </div>
                     </div>

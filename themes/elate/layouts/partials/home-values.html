@@ -1,12 +1,16 @@
-<section id="home-contact" data-section="home-contact">
+<section id="home-values" data-section="home-contact">
 
 
 
 <div class="bulletPoint spaceBetween">
-                    	<div>No Premine</div>
                     	
-                    	<div>No ICO</div>
-                    	<div>No Airdrop</div>
+
+                    	{{ range $index, $element := .Site.Params.values.item }}
+
+                    <div>{{ i18n (printf "values_%d_title" $index) | markdownify }}</div>
+
+
+                    {{ end }}
                     	
                     	
 

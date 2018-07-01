@@ -30,6 +30,17 @@ If you intend to mine Vertcoin, the Core wallet is a requirement. Our new Lightn
 |[Linux (ARM)](https://github.com/vertcoin-project/vertcoin-core/releases/download/0.13.2/vertcoind-v0.13.2-linux-armhf.zip)|
 |<a href="https://github.com/vertcoin/vertcoin" target="_blank">Source Code</a>|
 
+
+# Simple: One-Click Miner
+
+The Vertcoin One-Click Miner is by far the easiest way to get started. It's a user-friendly piece of software (Windows only), that allows you to start mining with a few easy steps. You can download the One-Click Miner using the button below, and follow <a href="https://medium.com/vertcoin-blog/updated-vertcoin-one-click-miner-ocm-setup-b7052a4664c9" target="_blank">this guide</a> for setting it up.
+
+<a href="https://github.com/vertcoin/One-Click-Miner/releases" target="_blank">Download One-Click Miner</a>
+
+![One click miner screenshot](/images/oneclickminer.png)
+
+
+
 # Electrum-VTC
 
 Electrum-VTC is a lightweight wallet forked from upstream <a href="https://github.com/spesmilo/electrum" target="_blank">Electrum</a> which does
@@ -75,7 +86,7 @@ can be imported into Electrum-VTC or Vertcoin Core at a later date and spent fro
 |<a href="https://vertaddress.org" target="_blank">Vertaddress</a>|
 |<a href="https://walletgenerator.net/?currency=Vertcoin" target="_blank">WalletGenerator</a>|
 
-# Third Party Wallets
 
-These are wallets that are not produced by the Vertcoin development team and don't fall into any of
-the other categories.  
+
+
+
