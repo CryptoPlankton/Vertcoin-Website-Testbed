@@ -7,31 +7,41 @@ draft: false
 If you are a store owner, you can accept VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on discord or on the Vertcoin.
 
 
-# Choose your own fees
+# Make fees your b!tch
 
-There is no fee to receive bitcoins, and many wallets let you control how large a fee to pay when spending. Most wallets have reasonable default fees, and higher fees can encourage faster confirmation of your transactions. Fees are unrelated to the amount transferred, so it's possible to send 100,000 bitcoins for the same fee it costs to send 1 bitcoin.
+There is no fee to receive Vertcoins. And if you’re making payments, you control how large a fee to pay when spending. Fees are unrelated to the amount transferred, so it’s possible to send 1,000,000 Vertcoins for the same fee it costs to send 1 Vertcoin (true story). 
 
-# Protection against fraud
 
-Any business that accepts credit cards or PayPal knows the problem of payments that are later reversed. Chargeback frauds result in limited market reach and increased prices, which in turn penalizes customers. Bitcoin payments are irreversible and secure, meaning that the cost of fraud is no longer pushed onto the shoulders of the merchants.
+# Forget about fraud
 
-# Fast international payments
+Vertcoin payments are irreversible and secure so as a business you can forget about fraud. 
+Also, thanks to extremely low fees, you may easily refund Vertcoins with little impact to your business. 
 
-Sending bitcoins across borders is as easy as sending them across the street. There are no banks to make you wait three business days, no extra fees for making an international transfer, and no special limitations on the minimum or maximum amount you can send.
 
-# No PCI compliance required
+# A world without borders
 
-Accepting credit cards online typically requires extensive security checks in order to comply with the PCI standard. Bitcoin still requires you to secure your wallet and your payment requests. However, you do not carry the costs and responsibilities that come with processing sensitive information from your customers like credit card numbers.
+Borders are so 1990s! Sending Vertcoin overseas or locally is exactly the same on our network. We believe that borders are so 1990s. We’ve removed the middlemen so there is no waiting, no extra fees for international transfers and no maximum amounts. 
 
-# Get some free visibility
+# Accept payments instantly 
 
-Bitcoin is an emerging market of new customers who are searching for ways to spend their bitcoins. Accepting them is a good way to get new customers and give your business some new visibility. Accepting a new payment method has often shown to be a clever practice for online businesses.
+As a merchant, we know you’ve jumped through hoops to obtain security checks in order to comply with the PCI standard. The good news is that with Vertcoin you don’t have to worry about that ever again. The even better news is that you do not carry the costs and responsibilities that come with processing sensitive information from your customers like credit card numbers. Vertcoin still requires you to secure your wallet and your payment requests, but you’ll find that you do that already. It’s not rocket science. 
+
+
+# Over 40 million reasons and counting
+
+
+Vertopians are loyal and eager to spend their Vertcoins. With over 40 million Vertcoins in circulation Vertcoin is the world’s newest burgeoning market searching for ways to spend their coins. With fractional outlay expenses this is one of the better better decisions you will make. 
+Accepting them is a good way to get new customers and give your business some new visibility. Accepting a new payment method has often shown to be a clever practice for online businesses.
+
 
 
 # Multi-signature
 
-Bitcoin also includes a multi-signature feature which allows bitcoins to be spent only if a subset of a group of people authorize the transaction. This can be used by a board of directors to prevent any member to make expenditures without enough consent from other members, as well as to track which members allowed each payment.
+Vertcoin also includes a multi-signature feature which allows Vertcoin to be spent only if a subset of a group of people authorize the transaction. Similar to general consensus, this means that payments can only be validated with enough consent from other members and that ensures valid transactions.
 
-# Accounting transparency
 
-Many organizations are required to produce accounting documents about their activity. Using Bitcoin allows you to offer the highest level of transparency since you can provide information your members can use to verify your balances and transactions. Non-profit organizations can also allow the public to see how much they receive in donations.
+# Accounts so clean 
+
+
+Vertcoin makes accounting very transparent. As a business or not for profit you may produce accounting documents to outline activity. Achieve the highest level of transparency using Vertcoin. With a few clicks you can provide information that your members can then use to verify your balances and transactions. Non-profit organizations can also allow the public to see how much they receive in donations. To learn more and get you set-up within 48 hours reach out to us by any of the links below.
+
