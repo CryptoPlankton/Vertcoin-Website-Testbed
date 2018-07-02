@@ -4,7 +4,7 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 
-If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
+If you are a store owner, you can accept VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on discord or on the Vertcoin.
 
 # The simplest of all payment systems
 

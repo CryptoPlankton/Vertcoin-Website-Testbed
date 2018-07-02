@@ -4,39 +4,46 @@ date: 2018-01-12T01:30:50Z
 draft: false
 ---
 
-If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
+If you are a store owner, you can accept VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on discord or on the Vertcoin.
 
 
 # Mobile payments made easy
 
-Bitcoin on mobiles allows you to pay with a simple two step scan-and-pay. No need to sign up, swipe your card, type a PIN, or sign anything. All you need to receive Bitcoin payments is to display the QR code in your Bitcoin wallet app and let your friend scan your mobile, or touch the two phones together (using NFC radio technology).
+
+Paying with Vertcoin is a piece of cake. It’s a two step scan and pay. You can literally forget about PINs, sign-up and tapping a card. To receive Vertcoin payments, just display the QR code in your Vertcoin wallet app and let your buddy scan your mobile, or touch the two phones together (using NFC radio technology).
 
 
-# Security and control over your money
+
+# You're in control
 
 
-Bitcoin transactions are secured by military grade cryptography. Nobody can charge you money or make a payment on your behalf. So long as you take the required steps to protect your wallet, Bitcoin can give you control over your money and a strong level of protection against many types of fraud.
+As one of the most mature coins on the market (since 2014) Vertcoin transactions are extremely secure (we’re talking military grade cryptography). Your money is safe because you have all the control. You’ve got the power to authorise a payment and no one can make a payment on your behalf. As long as you protect your wallet’s login details, Vertcoin gives you complete control over your money and a strong level of protection against multiple types of fraud.
 
 
-# Works everywhere, anytime
+
+# Always on, everywhere
 
 
-Just like with email, you don't need to ask your family to use the same software or the same service providers. Just let them stick to their own favorites. No problem there; they are all compatible as they use the same open technology. The Bitcoin network never sleeps, even on holidays!
+We’ve been on since 2014 and guess what, we’re here to stay. With a dedicated worldwide community of full nodes, we have one of the most extensive networks in the world.  
+Send and receive money on any platform that accepts Vertcoin because they are all compatible as they use the same open technology. The Vertcoin network is always on and ready!
 
 
-# Fast international payments
+
+# A world without borders
 
 
-Sending bitcoins across borders is as easy as sending them across the street. There are no banks to make you wait three business days, no extra fees for making an international transfer, and no special limitations on the minimum or maximum amount you can send.
+Borders are so 1990s! Sending Vertcoin overseas or locally is exactly the same on our network. We believe that borders are so 1990s. We’ve removed the middlemen so there is no waiting, no extra fees for international transfers and no maximum amounts. 
 
 
-# Choose your own fees
 
 
-There is no fee to receive bitcoins, and many wallets let you control how large a fee to pay when spending. Most wallets have reasonable default fees, and higher fees can encourage faster confirmation of your transactions. Fees are unrelated to the amount transferred, so it's possible to send 100,000 bitcoins for the same fee it costs to send 1 bitcoin.
+# Make fees your b!tch
 
 
-# Protect your identity
+There is no fee to receive Vertcoins. And if you’re making payments, you control how large a fee to pay when spending. Fees are unrelated to the amount transferred, so it’s possible to send 1,000,000 Vertcoins for the same fee it costs to send 1 Vertcoin (true story). 
 
 
-With Bitcoin, there is no credit card number that some malicious actor can collect in order to impersonate you. In fact, it is even possible to send a payment without revealing your identity, almost like with physical money. You should however take note that some effort can be required to protect your privacy.
+# Privacy because–internet 
+
+
+With Vertcoin we’ve taken privacy to the next level, it’s possible to send a payment without revealing your identity. Reach out to our active community on Discord and we’ll recommend the best approach to securing your privacy. 
