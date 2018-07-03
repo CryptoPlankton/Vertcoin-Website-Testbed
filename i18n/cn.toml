@@ -1,0 +1,257 @@
+
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "商家"
+
+	[navigation_titles_trading]
+    other = "交易"
+	
+	[navigation_titles_mine]
+    other = "挖矿"
+	
+	[navigation_titles_community]
+    other = "社区"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "什么是绿币？" 
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "开始探索绿币 （VTC）" 
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "或看个简介：" 
+
+    [quickOverview_0_title]
+    other = "个人" 
+
+    [quickOverview_1_title]
+    other = "商家" 
+
+    [quickOverview_2_title]
+    other = "开发者" 
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "打造一个更好的闪电网络" 
+
+
+    [litPoints_0_title]
+    other = "为多种加密货币而打造" 
+
+    [litPoints_1_title]
+    other = "统一的闪电网络" 
+
+    [litPoints_2_title]
+    other = "更好的结构"  
+
+
+
+    [litDiagram_title]
+    other = "如今"
+
+
+
+    [lit_description]
+    other = "LIT 代表着闪电 （Lightning） 的原意。其源码是闪电网络的白纸其中一位原著者所写的。LIT 是一个以比特币（BTC），绿币（VTC）和莱特币（LTC）或类似的加密货币而打造的解决方案。LIT 解决的问题包括 - 区块链之间的互通性， 扩展性， 网络拥挤, 高费用以及交易速度。 哦，还有 - LIT 超快的。"
+	
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "LITbox：加密货币的‘路由器’" 
+
+    [litboxPoints_0_title]
+    other = "一个地址，多种加密货币。" 
+
+    [litboxPoints_1_title]
+    other = "闪电付款" 
+
+    [litboxPoints_2_title]
+    other = "可抵抗审查" 
+
+
+    [litBox_description]
+    other = "在过去的四年内，绿币 （VTC） 马不停蹄地打造一个去信任，可扩展，可抵抗审查，启用闪电网络及方便使用的系统中。如今， LITbox 将成为这路程的的最后一块拼图。一个多种货币，多种频道的未来近在眼前 - 启用闪电网络后的极低费用（比银行还低！）将促进消费者运用及让商家更容易接受加密货币。 创新的 LITbox 用户界面将由绿币 （VTC） 全力改进以方便所有的用户。 无论是日常用户，商家或家长们都将可以轻易使用 LITbox。"
+
+	
+	
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "参与其它挖矿者支持绿币的网络" 
+    [oneClick_description]
+    other = "人民的货币" 
+    [oneClick_download]
+    other = "下载一键挖矿应用程式 （One-Click Miner）" 
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = '绿币的意愿是跟随加密货币的原意 - 让用户成为自己的银行，让人们掌控自己的钱财。绿币想达到的是目的与有I或预挖的项目完全不一样 - 我们只想改善现有的金融系统，打造一个更好的明天。'
+
+	
+
+
+# Values
+
+
+[values_0_title]
+    other = "没预挖"
+
+    [values_1_title]
+    other = "没首次币发行"
+
+    [values_2_title]
+    other = "没空投"
+
+
+# Footer
+
+[donationRun_title]
+    other = "绿币是百分百由社区成员<a href='/donate'>资助</a>。" 
+
+
+
+
+# Team List
+
+
+    [about_title]
+    other = "Team"
+    [about_description]
+    other = " "
+
+    [about_0_position]
+    other = "Multi Skill Set"
+    [about_0_description]
+    other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+
+
+    [about_1_position]
+    other = "Lead Developer"
+    [about_1_description]
+    other = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
+
+
+
+    [about_2_position]
+    other = "Developer"
+    [about_2_description]
+    other = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
+
+
+
+    [about_3_position]
+    other = "Developer"
+    [about_3_description]
+    other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
+
+
+
+    [about_4_position]
+    other = "Developer"
+    [about_4_description]
+    other = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
+
+
+
+    [about_5_position]
+    other = "Developer"
+    [about_5_description]
+    other = "Gert-Jaap joined Vertcoin in 2017. Started as a blockchain rookie in Vertcoin, but is currently involved in most of the development activities. Primary focus is the next-generation wallet of Vertcoin centred around the Lightning Network, while also contributing wherever necessary."
+
+
+    [about_6_position]
+    other = "Developer"
+    [about_6_description]
+    other = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
+
+
+
+    [about_7_position]
+    other = "Developer"
+    [about_7_description]
+    other = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+
+
+
+    [about_8_position]
+    other = "Developer"
+    [about_8_description]
+    other = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
+
+
+
+
+    [about_9_position]
+    other = "Public Relations (Japan)"
+    [about_9_description]
+    other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+
+    
+    [about_10_position]
+    other = "Developer"
+    [about_10_description]
+    other = "CryptoPlankton helped build the new Vertcoin website and implement various branding upgrades. He is currently working the multicoin lightning wallet application as a UX specialist."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "Donated"
+
+[donation_goal]
+other = "Donation goal"
+
+[donation_address]
+other = "VTC Donation Address"
+
+
+
