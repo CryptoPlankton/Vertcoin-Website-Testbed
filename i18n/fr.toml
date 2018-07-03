@@ -22,7 +22,7 @@
 
    
     [what_title]
-    other = "Vertcoin c'est quoi?"
+    other = "Vertcoin, c'est quoi?"
 
 
 
@@ -38,7 +38,7 @@
 
 
     [overview_title]
-    other = "Ou avoir un aperçu rapide"
+    other = "Ou avoir un aperçu rapide :"
 
     [quickOverview_0_title]
     other = "Particuliers"
@@ -55,14 +55,14 @@
 
 
     [lit_title]
-    other = "Construire un meilleur Lightning Network"
+    other = "Construire un meilleur Réseau Lightning"
 
 
     [litPoints_0_title]
     other = "Multi-monnaies par conception"
 
     [litPoints_1_title]
-    other = "Un Lightning Network unifié"
+    other = "Un Réseau Lightning unifié"
 
     [litPoints_2_title]
     other = "Une meilleure Architecture"
@@ -75,7 +75,7 @@
 
 
     [lit_description]
-    other = "LIT est le Lightning Network tel qu'il doit l'être. En fait, c'est le code original par le co-auteur du livre blanc. En résolvant tous les problèmes d'interopérabilité entre les multiples cryptomonnaies, de montée en charge, de congestion du réseau, de frais élevés de transations ou de problème de vitesse, LIT est la solution adaptée au monde réel pour les cryptomonnaies comme le Bitcoin, Vertcoin et Litecoin... oh et c'est rapide, très rapide."
+    other = "LIT est LE Réseau Lightning par essence. En fait, c'est le code original par le co-auteur du livre blanc. LIT permet une interopérabilité entre de multiples cryptomonnaies, des transactions quasiment gratuites et instantanées, il résoud le problème de montée en charge, et se débarasse ainsi de la congestion du réseau qui impliquait des transactions chères et lentes. LIT est la solution adaptée au monde réel pour les cryptomonnaies comme le Bitcoin, Vertcoin et Litecoin... oh et c'est rapide, très rapide."
 
 
 
@@ -83,7 +83,7 @@
 # LITBOX
 
     [litBox_title]
-    other = "Découvrez la LITbox: Le ‘Routeur’ de la Cryptocurrency"
+    other = "Découvrez la LITbox: Le ‘Routeur’ de la Crypto"
 
     [litboxPoints_0_title]
     other = "Une seule adresse pour vos pièces"
@@ -96,7 +96,7 @@
 
 
     [litBox_description]
-	other = "LITbox est un projet de Vertcoin et la dernière pièce pour compléter un système Lightning facile à utiliser qui soit résistant à la censure, qui permette une montée en charge, le tout sans nécessiter d'intermédiaire tiers de confiance. Nous développons une vision à long terme depuis 4 ans. Un futur multi-monnaie et multi-canaux s'apprête à voir le jour. Un futur où les gens utiliseront les crypto-monnaies pour faire leurs courses, et où les marchands les accepteront grace aux frais dérisoires (désolé les banques!). Vertcoin crée l'interface révolutionnaire de la LITbox pour la rendre accessible aux utilisateurs de tous les jours, aux marchands et même à leurs parents (nous avons pensé à vous aussi les séniors)."
+	other = "LITbox est un projet de Vertcoin et la dernière étape pour compléter un système Lightning qui soit facile à utiliser, résistant à la censure, et qui permette une montée en charge, le tout sans nécessiter de faire confiance à un intermédiaire. Nous développons une vision à long terme depuis 4 ans. Un futur multi-monnaie et multi-canaux s'apprête à voir le jour. Un futur où les gens utiliseront les crypto-monnaies pour faire leurs courses, et où les marchands les accepteront grace aux frais dérisoires (désolé les banques!). Vertcoin crée l'interface révolutionnaire de la LITbox pour la rendre accessible aux utilisateurs de tous les jours, aux marchands et même à leurs parents (nous avons pensé à vous aussi les séniors)."
 
 
 
@@ -119,7 +119,7 @@
 
 
     [reason_description]
-    other = "Vertcoin évolue au plus près possible des fondamentaux d'une cryptomonnaie, c'est à dire mouvement 'soyez votre propre banque' qui a lancé les cryptomonnaies. Vertcoin a un but diamétralement opposé à celui des entreprises type ICO/Préminage qui cherchent à empocher l'argent et disparaitre. Nous voulons simplement changer le système financier pour le meilleur."
+    other = 'Vertcoin évolue au plus près possible des fondamentaux d\'une cryptomonnaie, c\'est à dire du mouvement "soyez votre propre banque" qui a lancé les cryptomonnaies. Vertcoin a un but diamétralement opposé à celui des entreprises type ICO/Préminage qui cherchent à empocher l'argent et disparaitre. Nous voulons simplement changer le système financier pour le meilleur.'
 
 
 # Values
@@ -138,7 +138,7 @@
 # Footer
 
 [donationRun_title]
-    other = "Vertcoin marche entièrement avec des <a href='/donate'>donations</a>."
+    other = "Vertcoin tourne entièrement avec des <a href='/donate'>donations</a>."
 
 
 
@@ -154,7 +154,7 @@
     [about_0_position]
     other = "Ensemble des compétences nécessaires"
     [about_0_description]
-    other = "La communauté est la force motrice de ce que Vertcoin accomplit. Nous sommes fiers de faire partie d'une communauté qui est passionnée par le futur de Vertcoin et qui met les mains à la pâte pour que ce soit un succès. Si certaines monnaies ont besoin de capital pour croître, Vertcoin est alimenté par une vision partagée avec ses utilisateurs, c'est ce qui nous fait avancer."
+    other = "La communauté est la force motrice de Vertcoin. Nous sommes fiers de faire partie d'une communauté qui est passionnée par le futur de Vertcoin et qui met les mains à la pâte pour que ce soit un succès. Si certaines monnaies ont besoin de capital pour croître, Vertcoin est alimenté par une vision partagée avec ses utilisateurs, c'est ce qui nous fait avancer."
 
 
     [about_1_position]
@@ -241,7 +241,7 @@
 
 #donation page
 [donation_donated]
-other = "Donné"
+other = "Déjà reçu"
 
 [donation_goal]
 other = "Objectif de donation"
