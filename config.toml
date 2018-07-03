@@ -45,17 +45,27 @@ theme = "elate"
     weight = 5
     url = "/es"
 
+    [languages.nl]
+    languageName = "Nederlands"
+    weight = 6
+    url = "/nl"
+
+
+  [languages.cz]
+    languageName = "Čeština"
+    weight = 7
+    url = "/cz"
+
 
 [languages.ru]
     languageName = "Русский"
-    weight = 6
+    weight = 8
     url = "/ru"
 
 
-[languages.nl]
-    languageName = "Nederlands"
-    weight = 7
-    url = "/nl"
+
+
+    
 
     
 
