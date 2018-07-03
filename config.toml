@@ -16,6 +16,10 @@ theme = "elate"
     languageName = "English"
     weight = 1
 
+    [languages.fr]
+    languageName = "French"
+    weight = 2
+
    
 
 
