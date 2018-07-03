@@ -63,6 +63,14 @@ theme = "elate"
     url = "/ru"
 
 
+    [languages.de]
+    languageName = "Deutsche"
+    weight = 9
+    url = "/de"
+
+    
+
+
 
 
     
