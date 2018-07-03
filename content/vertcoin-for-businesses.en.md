@@ -45,3 +45,8 @@ Vertcoin also includes a multi-signature feature which allows Vertcoin to be spe
 
 Vertcoin makes accounting very transparent. As a business or not for profit you may produce accounting documents to outline activity. Achieve the highest level of transparency using Vertcoin. With a few clicks you can provide information that your members can then use to verify your balances and transactions. Non-profit organizations can also allow the public to see how much they receive in donations. To learn more and get you set-up within 48 hours reach out to us by any of the links below.
 
+
+<a href="/download" class="largeButton">
+                  		Get Started With Vertcoin
+                  	</a>
+

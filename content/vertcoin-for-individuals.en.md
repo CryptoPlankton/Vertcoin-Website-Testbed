@@ -47,3 +47,8 @@ There is no fee to receive Vertcoins. And if you’re making payments, you contr
 
 
 With Vertcoin we’ve taken privacy to the next level, it’s possible to send a payment without revealing your identity. Reach out to our active community on Discord and we’ll recommend the best approach to securing your privacy. 
+
+
+<a href="/download" class="largeButton">
+                  		Get Started With Vertcoin
+                  	</a>

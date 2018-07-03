@@ -35,3 +35,8 @@ Beyond that, keeping your Vertcoins secure is mainly a matter of securing your w
 # Inspired by possibilities
 
 Vertcoin removes financial limitations and allows you to design new and creative online services that couldn’t exist. Imagine tipping systems, automated payment solutions, distributed crowd-funding services, time locked payment management, public asset tracking, low-trust escrow services, micro-payment channels, and more.
+
+
+<a href="/download" class="largeButton">
+                  		Get Started With Vertcoin
+                  	</a>
