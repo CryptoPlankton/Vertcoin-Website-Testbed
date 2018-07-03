@@ -11,16 +11,57 @@ theme = "elate"
 #Language
 
 
-    [languages]
-    [languages.en]
+   [languages]
+   
+  [languages.en]
     languageName = "English"
     weight = 1
-
-    [languages.fr]
-    languageName = "French"
+    url = "/"
+    
+  [languages.fr]
+    
+    languageName = "Français"
     weight = 2
+    url = "/fr"
 
+  [languages.cn]
+    
+    languageName = "中文"
+    weight = 3
+    url = "/cn"
+
+    
+
+  [languages.ko]
+    languageName = "한국의"
+    weight = 4
+    url = "/ko"
+
+
+    
    
+[languages.es]
+    languageName = "Español"
+    weight = 5
+    url = "/es"
+
+
+[languages.ru]
+    languageName = "Русский"
+    weight = 6
+    url = "/ru"
+
+
+[languages.nl]
+    languageName = "Nederlands"
+    weight = 7
+    url = "/nl"
+
+    
+
+
+
+
 
 
 # Menu

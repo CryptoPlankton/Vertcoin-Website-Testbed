@@ -6,7 +6,7 @@
                 <div class="navbar-header">
                     <!-- Mobile Toggle Menu Button -->
                     <a class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
-                    <a class="navbar-brand" href="../">
+                    <a class="navbar-brand" href="/">
 
                         <svg width="179px" height="33px" viewBox="0 0 179 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 
@@ -65,13 +65,31 @@
 
 
                       <li class="dropdown">
-  <a class="dropdown-toggle" data-toggle="dropdown">English
+  <a class="dropdown-toggle" data-toggle="dropdown">
+    
+    {{ .Site.Language.LanguageName }}
+
+   
   </a>
   <ul class="dropdown-menu">
-    <li><a href="#">French</a></li>
-    <li><a href="#">Japanese</a></li>
-    <li><a href="#">Spanish</a></li>
-    <li><a href="#">Chinese</a></li>
+
+   
+
+
+                     
+
+
+
+{{ range $.Site.Home.AllTranslations }}
+<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+
+
+   
+
+
+
+
   </ul>
 </li>
 
