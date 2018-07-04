@@ -1,0 +1,261 @@
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Obchodníci"
+
+	
+	[navigation_titles_trading]
+    other = "Obchodování"
+	
+	[navigation_titles_mine]
+    other = "Těžba"
+	
+	[navigation_titles_community]
+    other = "Komunita"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Co je to Vertcoin?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Začněte s Vertcoinem"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "Nebo získej rychlý přehled pro"
+
+    [quickOverview_0_title]
+    other = "Jednotlivci"
+
+    [quickOverview_1_title]
+    other = "Podnikání"
+
+    [quickOverview_2_title]
+    other = "Vývojáři"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "Vytváříme lepší Lightning Network"
+
+
+    [litPoints_0_title]
+    other = "Nativně Multicoin"
+
+    [litPoints_1_title]
+    other = "Jednotný Lightning Network"
+
+    [litPoints_2_title]
+    other = "Lepší Architektura"
+
+
+
+    [litDiagram_title]
+    other = "Současný"
+
+
+
+    [lit_description]
+    other = "LIT je takový jaký by Lightning měl být. Popravdě je to originální kód od autora whitepaperu. LIT umožňuje multi měnovou interoperabilitu, díky které jsou transakce téměř okamžité a zdarma. Řeší problém škálování a přetížení sítě, které vedlo k vysokým poplatkům za transakci a pomalou rychlost transakce. LIT je reálné světové řešení pro kryptoměny jako je Bitcoin, Vertcoin a Litecoin... a je to velmi rychlé."
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Seznamte se s LITboxem ‘Routerem kryptoměn’"
+
+    [litboxPoints_0_title]
+    other = "Jediná adresa pro vaše mince"
+
+    [litboxPoints_1_title]
+    other = "Bleskové platby"
+
+    [litboxPoints_2_title]
+    other = "Rezistence k cenzuře"
+
+
+    [litBox_description]
+    other = "LITbox je projekt Vertcoinu a je posledním dílkem pro vytvoření systému zcela spolehlivého, škálovatelného, odolného vůči cenzuře, který je snadno použitelný a využívá lightning technologii. Poslední čtyři roky jsme mysleli dopředu. Multiměnová, multikanálová budoucnost je za rohem. Budoucnost, kde budou lidé používat kryptoměny k nákupu potravin a obchodníci budou kryptoměny přijímat kvůli jejím směšně nízkým poplatkům (promiňte banky). Vertcoin řídí revoluční uživatelské rozhraní LITboxu. Vytváříme to dostupné pro každodenní uživatele, obchodníky, a dokonce i pro vaše rodiče."
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Připoj se k tisícům těžařu k podpoře Vertcoinové sítě"
+    [oneClick_description]
+    other = "MINCE LIDU"
+    [oneClick_download]
+    other = "Stáhnout One-Click Miner"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'Vertcoin se snaží přiblížit co nejvíce je to možné k základním principům kryptoměn. Celé "buď svojí bankou" hnutí, které zahájilo rozmach kryptoměn. Vertcoin se snaží o něco úplně jiného něž ICO/Premine, které chtějí vybrat peníze a zaměstnat vývojáře'
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "Ne předtěžbě"
+
+    [values_1_title]
+    other = "Ne ICO"
+
+    [values_2_title]
+    other = "Ne Airdropu"
+
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin běží jen díky komunitě <a href='/donate'>donations</a>."
+
+
+
+
+# Team List
+
+
+    [about_title]
+    other = "Tým"
+    [about_description]
+    other = " "
+
+    [about_0_position]
+    other = "Sada více dovedností"
+    [about_0_description]
+    other = "Komunita je hnací silou toho co Vertcoin dokázal. Jsme hrdí na to, že se chlubíme komunitou, která je vášnivá ohledně budoucnosti Vertcoinu a jsou ochotni podniknout kroky k tomu, aby se věci staly."
+
+
+    [about_1_position]
+    other = "Vedoucí Vývojář"
+    [about_1_description]
+    other = "James se zabýval programováním již od svých 10 let. V současné době je vysokoškolským výzkumným pracovníkem v MIT DCI a pracuje na zavedení decentralizované měnové politiky."
+
+
+
+    [about_2_position]
+    other = "Vývojář"
+    [about_2_description]
+    other = "Joevy primární zkušenosti spočívají v .NET a C#. Sekundární pak v různých jiných programovacích jazycích. Pracuje v oblasti fyziky, vyrábí instrumentace pro detektory radiace a od počátku roku 2014 se podílí na Vertcoinu."
+
+
+
+    [about_3_position]
+    other = "Vývojář"
+    [about_3_description]
+    other = "Také znám jako ETANG600 byl těžařem a aktivním členem krypto komunity od roku 2013. Poté co se dozvěděl o Vertcoinu tak začal pomáhat na sociálních sítích Vertcoinu a pomáhal s vývojem."
+
+
+
+    [about_4_position]
+    other = "Vývojář"
+    [about_4_description]
+    other = "Star začal s těžbou a podporou Vertcoinu od roku 2014. Připojil se k našemu týmu v roce 2017 se zaměřením na programování webu a branding. Pokračuje v konzultacích a pomáhá rozvíjet online komunitu. Godwits pracuje s hlavním týmem pro zapojení se s potencionálnímý partnery a zástupci z USA / Jižní Korei "
+
+
+
+    [about_5_position]
+    other = "Vývojář"
+    [about_5_description]
+    other = "Gert-Jaap připojil se k Vertcoinu v roce 2017. Začínal jako blockchainový nováček ve Vertcoinu, ale v současné době se podílí na většině vývojových aktivit. Primárně je zaměřený na další generaci Vertcoinové peněženky, která se soustředí okolo Lightning Networku a zárověn přispíva kdekoliv je potřeba."
+
+
+    [about_6_position]
+    other = "Vývojář"
+    [about_6_description]
+    other = "Alex je počítačový inženýr se zkušenostmi s navržením serverových procesorů, psaní barametal testovacího softwaru a provádění post silicon validace. Alex se zaměřuje na vývoj a podporu Vertcoin CUDA/OpenCL těžebního softwaru."
+
+
+
+    [about_7_position]
+    other = "Vývojář"
+    [about_7_description]
+    other = "jk_14 nám pomohl vytvořit Vertcoin peněženku pro android a vytvořil GNU/Linux distribuci pro těžení zvanou KopiemTu. Od roku 2013 se podílel na kryptoměnách a založil MobileCash, měnu která jde těžit zároveň s Vertcoinem."
+
+
+
+    [about_8_position]
+    other = "Vývojář"
+    [about_8_description]
+    other = "pknight nám pomohl vytvořit Electrum peněženku, od začátku roku 2014 se zajímá o kryptoměny."
+
+
+
+
+    [about_9_position]
+    other = "Styk s veřejností (Japonsko)"
+    [about_9_description]
+    other = "Daiki je náš Japonský zástupce, který spolupracuje s hlavním týmem, aby přinesl možnosti a potencionální pratnerství v Japonských hlavních městech."
+
+    
+    [about_10_position]
+    other = "Vývojář"
+    [about_10_description]
+    other = "CryptoPlankton pomohl vytvořit novou Vertcoinovou webovou stránku a implementoval různé zlepšení značky. V současné době pracuje na multiměnové lightning peněžence jako UX specialista."
+
+    
+    [about_11_position]
+    other = "Vývojář & Bug Bounty Initiator"
+    [about_11_description]
+    other = "Suriyaa začal s programováním v 11 letech. Je studentem TUM a pracuje na několika Open Source projektech. Suriyaa se připojil k týmu Vertcoinu v červnu 2018 poté co mu ho jeho kamarád doporučil. Začal jako vývojář, ale teď je zapojený ve vývoji webu. Je iniciátorem Vertcoinového programu pro hledání chyb."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "Přispěno"
+
+[donation_goal]
+other = "Cíl příspěvků"
+
+[donation_address]
+other = "VTC Adresa pro příspěvky"
+
+
+
