@@ -28,7 +28,7 @@
 # Get Started Button
 
     [getStarted_title]
-    other = "Lege mit Vercoin los"
+    other = "Lege los mit Vercoin"
 
 
 
@@ -54,14 +54,14 @@
 
 
     [lit_title]
-    other = "Ein besseres Lightning Network ausbauen"
+    other = "Ein besseres Lightning-Netzwerk aufbauen"
 
 
     [litPoints_0_title]
     other = "Natives Multicoin"
 
     [litPoints_1_title]
-    other = "Einheitliches Lightning Network"
+    other = "Einheitliches Lightning-Netwerk"
 
     [litPoints_2_title]
     other = "Bessere Architektur"
@@ -86,17 +86,17 @@
     other = "Lernt LITBox kennen: Der Router vom Crypto"
 
     [litboxPoints_0_title]
-    other = "Single Addressen für deine Coins"
+    other = "Eigene Adressen für deine Coins"
 
     [litboxPoints_1_title]
-    other = "Lightning Zahlung"
+    other = "Lightning-Zahlungen"
 
     [litboxPoints_2_title]
-    other = "Zensurwiderstand"
+    other = "Widerstand gegen die Zensur"
 
 
     [litBox_description]
-    other = "Die LITBox ist ein Vertcoin-Projekt und sie ist das letzte Puzzleteil, um eine endgültige vertrauenslose, skalierbare und zensurwiderständige, im lightning aktivierte System, zu gewährleisten und welche einfach zu bedienen ist. Wir haben bereits das lange Spiel in den letzten vier Jahren gespielt. Ein Multicoin und die Zukunft eines Multichannels ist nun zum Greifen nahe. Eine Zukunft, wo sich Menschen mit Kryptowährungen für ihren Einkauf zahlen werden und Händler, die die Währung wegen ihren unglaublich kleinen Gebühren akzeptieren (Sorry Banken). Vertcoin fördert LITboxs revolutionäre Benutzeroberfläche weiter. Wir werden sie für jeden zugänglich machen und sie für Nutzer, Händler und sogar ihren Eltern zu einem Alltagsgegenstand transformieren (Das ist richtig, Baby Boomers, wir haben auch an euch gedacht)."
+    other = "Die LITBox ist ein Vertcoin-Projekt und sie ist das letzte Puzzleteil, um eine endgültige vertrauensvolle, skalierbare und zensurwiderständige Lightning-aktivierte System zu gewährleisten und das einfach zu bedienen ist. Wir spielten in den letzten vier Jahren das lange Spiel. Ein Multicoin und die Zukunft eines Multichannels ist nun zum Greifen nahe. Eine Zukunft, wo sich Menschen mit Kryptowährungen für ihren Einkauf zahlen werden und Händler, die die Währung wegen ihren unglaublich kleinen Gebühren akzeptieren (Sorry Banken). Vertcoin fördert die revolutionäre Benutzeroberfläche von LITbox weiter. Wir werden sie für jeden zugänglich machen und sie für Nutzer, Händler und sogar ihren Eltern zu einem Alltagsgegenstand transformieren (Das ist richtig, Baby Boomers, wir haben auch an euch gedacht)."
 
 
 # Mining Call To Action
@@ -105,7 +105,7 @@
     [oneClick_title]
     other = "Trete mit tausenden von Minern bei, um Vertcoins Netzwerk zu unterstützen"
     [oneClick_description]
-    other = "THE PEOPLE'S COIN"
+    other = "DIE MÜNZE DER LEUTE"
     [oneClick_download]
     other = "One-Click Miner herunterladen"
 
@@ -137,4 +137,4 @@
 # Footer
 
 [donationRun_title]
-    other = "Vertcoin wird von der Community angetrieben <a href='/donate'>donations</a>."
+    other = "Vertcoin wird durch <a href='/donate'>Spenden</a> von der Community angetrieben."
