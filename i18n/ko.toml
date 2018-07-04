@@ -1,0 +1,261 @@
+
+# 네비게이션
+
+    
+    [navigation_titles_merchants]
+    other = "가맹점"
+
+	
+	[navigation_titles_trading]
+    other = "거래 및 교환/트레이딩"
+	
+	[navigation_titles_mine]
+    other = "채굴/마이닝"
+	
+	[navigation_titles_community]
+    other = "커뮤니티"
+	
+	
+	
+
+# Vertcoin에 관하여
+
+   
+    [what_title]
+    other = "버트코인(Vertcoin)에 관하여?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "버트코인(Vertcoin)을 시작"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "간략한 개요"
+
+    [quickOverview_0_title]
+    other = "개인"
+
+    [quickOverview_1_title]
+    other = "사업 및 단체"
+
+    [quickOverview_2_title]
+    other = "개발자"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "보다나은 라이트닝 네트워크를 위한 노력"
+
+
+    [litPoints_0_title]
+    other = "네이티브 멀티코인"
+
+    [litPoints_1_title]
+    other = "통일된 라이트닝 네트워크"
+
+    [litPoints_2_title]
+    other = "향상된 구조"
+
+
+
+    [litDiagram_title]
+    other = "현재"
+
+
+
+    [lit_description]
+    other = "LIT는 라이트닝이 지향하는 목표를 실현하고 있습니다. 라이트닝 whitepaper 공동 저자의 코드를 바탕으로 만들어졌습니다. LIT는 멀티코인의 호환과 동시에 스케일링으로 인해 발생되는 높은 거래 비용 및 거래 속도의 저하를 방지하여 비트코인, 라이트코인,버트코인을 자유롭게 쓸수 있는 현실적인 해결책입니다."
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "LITbox에 관하여: “암호화폐의 ‘라우터(Router)’ "
+
+    [litboxPoints_0_title]
+    other = "단일화 된 코인 주소"
+
+    [litboxPoints_1_title]
+    other = "라이트닝 결제"
+
+    [litboxPoints_2_title]
+    other = "검열에 면역성"
+
+
+    [litBox_description]
+    other = "LITbox는 버트코인의 프로젝트중 하나로써 라이트닝 기반의 신뢰성, 확장성, 그리고 검열의 면역성을 가진 시스템을 위한 중요한 프로젝트입니다. 멀티코인의 다채널 사용을 염두에두고 지난 4년간 노력을 기울여 노력 해왔습니다. 기존 은행의 거래 수수료에 대비해 대폭 낮은 수수료로 기존 사업체 및 개인 누구나도 쓰기 쉬운 획기 적인 UI가 될 것입니다. "
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "버트코인을 위한 채굴 네트워크에 참여"
+    [oneClick_description]
+    other = "모든이들 위한 코인"
+    [oneClick_download]
+    other = "원-클릭 채굴의 다운로드"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = '단기적 수익을 노리는 다른 암호화폐와는 달리 버트코인의 기존의 금융네트워크 환경을 개선 하기위한 목표를 가지고 운영되고 있습니다.'
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "프리마이닝의 부재"
+
+    [values_1_title]
+    other = "ICO의 부재"
+
+    [values_2_title]
+    other = "에어드랍의 부재"
+
+
+# Footer
+
+[donationRun_title]
+    other = "버트코인 커뮤니티에 의해 운영되고 있습니다. <a href='/donate'>donations</a>."
+
+
+
+
+# Team List
+
+
+    [about_title]
+    other = "팀 멤버"
+    [about_description]
+    other = " "
+
+    [about_0_position]
+    other = "기타 기술 및 도움제공 관련"
+    [about_0_description]
+    other = "버트코인의 발전은 강한 커뮤니티에 의해 가능했습니다. 커뮤니티의 열정적 성원에 힘입어 앞으로도 무한한 성장을 기대 하고 있습니다."
+
+
+    [about_1_position]
+    other = "리드 개발자"
+    [about_1_description]
+    other = "10세 때 부터 컴퓨터 프로그래밍을 시작한 제임스는 현재 MIT DCI의 연구자로써 탈중앙 분산화 네트워크 정책의 연구에 집중하고 있습니다."
+
+
+
+    [about_2_position]
+    other = "개발자"
+    [about_2_description]
+    other = "Joe는 .NET and C# 프로그래밍 및 다수의 외국어 관련 도움을 주고 있습니다. 현재 물리 관련 업계에 종사하고 있으며 2014년 초반 부터 버트코인에 도움을 주어 왔습니다."
+
+
+
+    [about_3_position]
+    other = "Developer"
+    [about_3_description]
+    other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
+
+
+
+    [about_4_position]
+    other = "개발자"
+    [about_4_description]
+    other = "Star는 2014년 부터 버트코인 채굴을 시작으로 2017년 부터 버트코인의 웹 프로그래밍 및 브랜딩에 도움을 주기 시작 하였습니다. 온라인 커뮤니티의 활발한 활동을 위해 도움을 주고 있으며 코어 팀과 더불어 미국, 한국에서의 파트너십 개발에 주력 하고 있습니다."
+
+
+
+    [about_5_position]
+    other = "개발자"
+    [about_5_description]
+    other = "Gert-Jaap 2017에 버트코인 팀에 참여 하였습니다. 버트코인을 시작으로 블락체인에 입문하여 현재는 다수의 프로젝트에 적극적으로 참여하고 있습니다. 주 프로젝트로는 차세대 버트코인의 월렛 개발에 노력을 기울이고 있습니다."
+
+
+    [about_6_position]
+    other = "개발자"
+    [about_6_description]
+    other = "Alex는 서버 사양 CPUs 디자인 및, baremetal 검열 소프트웨어 개발의 경험이 있습니다. Alex 는 현재 버트코인의 CUDA/OpenCL 채굴 소프트웨어의 개발 및 도움을 주고 있습니다."
+
+
+
+    [about_7_position]
+    other = "개발자"
+    [about_7_description]
+    other = "jk_14는 버트코인 안드로이드용 월렛 개발에 도움을 주었으며 GNU/Linux 채굴의 KopiemTu를 개발 하였습니다. 암호화폐 업계에는 2013년에 입문하여 버트코인과는 merge-mineable한 MobileCash를 개발하였습니다."
+
+
+
+    [about_8_position]
+    other = "개발자"
+    [about_8_description]
+    other = "pknight 일렉트럼 월렛개발에 도움을 주었습니다.암호화폐 업계에는 2014년에 입문하였습니다."
+
+
+
+
+    [about_9_position]
+    other = "홍보 (일본)"
+    [about_9_description]
+    other = "Daiki 코어 팀을 도와 일본 에서의 파트너십 및 협력 기회 개발에 도움을 주고 있습니다."
+
+    
+    [about_10_position]
+    other = "개발자"
+    [about_10_description]
+    other = "CryptoPlankton는 버트코인의 웹사이트 및 브랜딩의 향상을 위한 도움을 주고 있습니다. 현재는 멀티코인 라이트닐 월렛의 UX specialist로 도움을 주고 있습니다."
+
+    
+    [about_11_position]
+    other = "개발자 & 버그 검열"
+    [about_11_description]
+    other = "Suriyaa 11세 부터 프로그래밍을 시작하여 현재는 TUM의 학생으로 다수의 오픈소스 프로젝트에 참여 하고 있습니다. Suriyaa는 버트코인에 2018 6월헤 참여하여 개발에 도움을 주고 있습니다."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "기부 현황"
+
+[donation_goal]
+other = "기부 목표"
+
+[donation_address]
+other = "VTC 기부 주소"
+
+
+
