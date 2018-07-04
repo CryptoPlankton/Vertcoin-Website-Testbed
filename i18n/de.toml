@@ -1,0 +1,140 @@
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Akzeptanzstellen"
+
+	
+	[navigation_titles_trading]
+    other = "Handeln"
+	
+	[navigation_titles_mine]
+    other = "Mining"
+	
+	[navigation_titles_community]
+    other = "Community"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Was ist Vertcoin?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Lege mit Vercoin los"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "oder bekomme einen Überblick für"
+
+    [quickOverview_0_title]
+    other = "Individuelle"
+
+    [quickOverview_1_title]
+    other = "Geschäfte"
+
+    [quickOverview_2_title]
+    other = "Entwickler"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "Ein besseres Lightning Network ausbauen"
+
+
+    [litPoints_0_title]
+    other = "Natives Multicoin"
+
+    [litPoints_1_title]
+    other = "Einheitliches Lightning Network"
+
+    [litPoints_2_title]
+    other = "Bessere Architektur"
+
+
+
+    [litDiagram_title]
+    other = "Aktuell"
+
+
+
+    [lit_description]
+    other = "LIT ist, was Lightning sein sollte. Tatsächlich ist es der ursprüngliche Code vom Co-Autor des Whitepapers. LIT erlaubt uns die Interoperabilität von vielen anderen Kryptowährungen und nahe zu unmittelbare und kostenlose Transaktionen. Des Weiteren löst es Skalierungsprobleme und Netzwerküberlastungen, die dazu führen, dass die Transaktionsgebühren zu hoch sind und die Transaktionsgeschwindigkeit darunter leidet. LIT ist eine herausragende Lösung für Bitcoin, Vertcoin und Litecoin... oh und es ist extrem schnell!"
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Lernt LITBox kennen: Der Router vom Crypto"
+
+    [litboxPoints_0_title]
+    other = "Single Addressen für deine Coins"
+
+    [litboxPoints_1_title]
+    other = "Lightning Zahlung"
+
+    [litboxPoints_2_title]
+    other = "Zensurwiderstand"
+
+
+    [litBox_description]
+    other = "Die LITBox ist ein Vertcoin-Projekt und sie ist das letzte Puzzleteil, um eine endgültige vertrauenslose, skalierbare und zensurwiderständige, im lightning aktivierte System, zu gewährleisten und welche einfach zu bedienen ist. Wir haben bereits das lange Spiel in den letzten vier Jahren gespielt. Ein Multicoin und die Zukunft eines Multichannels ist nun zum Greifen nahe. Eine Zukunft, wo sich Menschen mit Kryptowährungen für ihren Einkauf zahlen werden und Händler, die die Währung wegen ihren unglaublich kleinen Gebühren akzeptieren (Sorry Banken). Vertcoin fördert LITboxs revolutionäre Benutzeroberfläche weiter. Wir werden sie für jeden zugänglich machen und sie für Nutzer, Händler und sogar ihren Eltern zu einem Alltagsgegenstand transformieren (Das ist richtig, Baby Boomers, wir haben auch an euch gedacht)."
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Trete mit tausenden von Minern bei, um Vertcoins Netzwerk zu unterstützen"
+    [oneClick_description]
+    other = "THE PEOPLE'S COIN"
+    [oneClick_download]
+    other = "One-Click Miner herunterladen"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'Vertcoin spiegelt die Fundamente der Kryptowährung und das Motto "Sei die eigene Bank" wieder, die dazu geführt hat, dass Kryptowährungen entstanden sind. Vertcoin verfolgt komplett andere Ziele und zwar: Das Finanzwesen zu einem Besseren zu machen, statt mit ICOs oder Prämien reich zu werden'
+
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "Keine Prämien"
+
+    [values_1_title]
+    other = "Kein ICO"
+
+    [values_2_title]
+    other = "Kein Airdrop"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin wird von der Community angetrieben <a href='/donate'>donations</a>."
