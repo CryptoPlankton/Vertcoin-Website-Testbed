@@ -1,0 +1,261 @@
+
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Commercianti"
+
+	
+	[navigation_titles_trading]
+    other = "Trading"
+	
+	[navigation_titles_mine]
+    other = "Mining"
+	
+	[navigation_titles_community]
+    other = "Community"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Cos’è Vertcoin?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Primi passi con Vertcoin"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "O una veloce panoramica per"
+
+    [quickOverview_0_title]
+    other = "Individui"
+
+    [quickOverview_1_title]
+    other = "Business"
+
+    [quickOverview_2_title]
+    other = "Sviluppatori"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "Costruire un Lightning Network migliore"
+
+
+    [litPoints_0_title]
+    other = "Multicoin Nativo"
+
+    [litPoints_1_title]
+    other = "Lightning Network Unificato"
+
+    [litPoints_2_title]
+    other = "Architettura Migliore"
+
+
+
+    [litDiagram_title]
+    other = "Attuale"
+
+
+
+    [lit_description]
+    other = "LIT è ciò che Lightning dovrebbe essere. E’ l’implementazione originale sviluppata direttamnte dal co-autore del whitepaper. LIT supporta interoperabilità tra più criptovalute, transazioni quasi istantanee e gratuite, risolve il problema della scalabilità e riduce la congestione della rete che porta a commissioni elevate e a basse velocità di transazione, LIT è una soluzione efficacie per criptovalute come Bitcoin, Vertcoin e Litecoin… oh ed è veloce."
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Scopri LITbox: Il ‘Router’ delle Criptovalute"
+
+    [litboxPoints_0_title]
+    other = "Singolo Indirizzo Per Le Tue Criptomonete"
+
+    [litboxPoints_1_title]
+    other = "Pagamenti Lightning"
+
+    [litboxPoints_2_title]
+    other = "Censorship Resistance"
+
+
+    [litBox_description]
+    other = "LITbox è un progetto Vertcoin ed è l’ultimo tassello per completare un sistema affidabile, scalabile, censorship resistant, che supporta la tecnologia lightning e facile da usare. Negli ultimi quattro anni abbiamo lavorato con una visione di lungo periodo. Un futuro multimoneta e multicanale è dietro l’angolo. Un futuro in cui le persone useranno la criptomoneta per comprare anche generi alimentari e dove i commercianti la accetteranno per i costi di transazione incredibilimente bassi (banche, scusate). Vertcoin sta sviluppando la rivoluzionaria interfaccia LITbox. La stiamo rendendo accessibile anche agli utenti non esperti, ai commercianti e persino ai loro genitori (pensionati abbiamo pensato anche a voi)."
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Unisciti a migliaia di miners per supportare la rete Vertcoin"
+    [oneClick_description]
+    other = "LA CRIPTOMONETA DELLE PERSONE"
+    [oneClick_download]
+    other = "Download One-Click Miner"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'Vertcoin funziona mantenendo inalterati i principi base delle criptomonete e in accordo con il movimento “be your own bank” che ha dato il via alle criptomonete stesse. Vertcoin vuole implementare qualcosa di completamente diverso dalle ICO e dalle criptomonete pre-minate. Noi vogliamo cambiare il sistema finanziario in meglio.'
+
+
+# Values
+
+
+[values_0_title]
+    other = "No Premine"
+
+    [values_1_title]
+    other = "No ICO"
+
+    [values_2_title]
+    other = "No Airdrop"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin funziona interamente grazie alle <a href='/dona'>donazioni</a> della community."
+
+
+
+
+# Team List
+
+
+    [about_title]
+    other = "Team"
+    [about_description]
+    other = " "
+
+    [about_0_position]
+    other = "Multi Skill Set"
+    [about_0_description]
+    other = "The community is the driving force behind what Vertcoin has accomplished. We are proud to boast a community who is passionate about the future of Vertcoin and are willing to take action to make things happen. Other coins need money to grow, Vertcoin has a shared vision with its users that fuels its path forward."
+
+
+    [about_1_position]
+    other = "Lead Developer"
+    [about_1_description]
+    other = "James has been programming in one form or another since age 10. He currently is an undergraduate researcher at the MIT DCI, working on enacting decentralized monetary policy."
+
+
+
+    [about_2_position]
+    other = "Developer"
+    [about_2_description]
+    other = "Joe's primary developing experience has been in .NET and C#, with secondary skills in various other languages. He works in the field of physics, manufacturing radiation detection instrumentation. He has been involved in Vertcoin since early 2014."
+
+
+
+    [about_3_position]
+    other = "Developer"
+    [about_3_description]
+    other = "Also known as ETANG600 has been a miner and an active member of the crypto community since 2013. Since discovering Vertcoin, he has been helping with Vertcoin’s social media presence and development tasks."
+
+
+
+    [about_4_position]
+    other = "Developer"
+    [about_4_description]
+    other = "Star started to mine and support Vertcoin’s network since 2014. Joined our team in 2017 to focus on web programming and branding. He continues to consult and help grow the online community. Godwits works with the core team to engage with potential partnerships & representatives in USA / South Korea."
+
+
+
+    [about_5_position]
+    other = "Developer"
+    [about_5_description]
+    other = "Gert-Jaap joined Vertcoin in 2017. Started as a blockchain rookie in Vertcoin, but is currently involved in most of the development activities. Primary focus is the next-generation wallet of Vertcoin centred around the Lightning Network, while also contributing wherever necessary."
+
+
+    [about_6_position]
+    other = "Developer"
+    [about_6_description]
+    other = "Alex is a Computer Engineer with experience designing server-class CPUs, writing baremetal test software, and performing post silicon validation. Alex focuses on the development and support of Vertcoin CUDA/OpenCL Mining Software."
+
+
+
+    [about_7_position]
+    other = "Developer"
+    [about_7_description]
+    other = "jk_14 has helped us create the Vertcoin Android wallet and he authored the GNU/Linux distribution for mining called KopiemTu. He has been involved in cryptocurrency since 2013 and started MobileCash, a coin that is merge-mineable with Vertcoin."
+
+
+
+    [about_8_position]
+    other = "Developer"
+    [about_8_description]
+    other = "pknight has helped us create the Electrum wallet. He has been involved in cryptocurrency since early 2014."
+
+
+
+
+    [about_9_position]
+    other = "Public Relations (Japan)"
+    [about_9_description]
+    other = "Daiki is our Japanese representative who is working closely with the core team to bring opportunities & potential partnerships in Japan’s major cities."
+
+    
+    [about_10_position]
+    other = "Developer"
+    [about_10_description]
+    other = "CryptoPlankton helped build the new Vertcoin website and implement various branding upgrades. He is currently working the multicoin lightning wallet application as a UX specialist."
+
+    
+    [about_11_position]
+    other = "Developer & Bug Bounty Initiator"
+    [about_11_description]
+    other = "Suriyaa has been programming since age 11. He is a student of TUM, working on multiple Open Source projects. Suriyaa joined the Vertcoin team in June 2018 after a friend recommended to use Vertcoin. He started as a developer, but is currently involved in web development. He is the initiator of the Vertcoin's Bug Bounty program."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "Donated"
+
+[donation_goal]
+other = "Donation goal"
+
+[donation_address]
+other = "VTC Donation Address"
+
+
+
+

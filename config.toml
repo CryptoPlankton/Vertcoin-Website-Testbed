@@ -82,6 +82,11 @@ theme = "elate"
     weight = 11
     url = "/ar"
 
+    [languages.it]
+    languageName = "Italiano"
+    weight = 12
+    url = "/it"
+
 
     
 
