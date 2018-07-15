@@ -297,7 +297,7 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
         </g>
     </g>
 </svg>
-        <p>Trying to build a distributed system with masternodes is entirely moronic & an oxymoron.</p>
+        <p>Trying to build a distributed system with masternodes is entirely moronic, it's an oxymoron.</p>
       </div>
       <div class="tab">
       <input id="tab-nine" type="checkbox" name="tabs">
