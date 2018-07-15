@@ -6,12 +6,6 @@ draft: false
 ---
 
 
-# Vertcoin Wallets
-
-The Vertcoin Development team provides two different wallets that users can store their Vertcoin
-on. Third parties provide both mobile and hardware wallets. There
-is also the option to store your Vertcoins without electronics using a <a href="https://vertaddress.org/" target="_blank"> paper wallet</a>.
-
 # Vertcoin Core (Most Secure)
 
 This is the Vertcoin reference client (forked from upstream
@@ -39,6 +33,12 @@ The Vertcoin One-Click Miner is by far the easiest way to get started. It's a us
 
 ![One click miner screenshot](/images/oneclickminer.png)
 
+
+# Vertcoin Wallets
+
+The Vertcoin Development team provides two different wallets that users can store their Vertcoin
+on. Third parties provide both mobile and hardware wallets. There
+is also the option to store your Vertcoins without electronics using a <a href="https://vertaddress.org/" target="_blank"> paper wallet</a>.
 
 
 # Electrum-VTC

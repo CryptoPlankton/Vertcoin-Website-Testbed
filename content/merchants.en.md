@@ -3,7 +3,20 @@ title: "Merchants"
 date: 2018-01-09T01:51:53Z
 draft: false
 ---
-If you are a store owner, you can [accept](/accept-vertcoin/) VTC in your store and help adoption of our currency. You can add yourself to this list by visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
+
+Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support. You can add yourself to our merchant list visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
+
+
+# Payment Gateways
+
+Payment gateways accept Vertcoin on your behalf and give you your national currency in return. <a href="https://www.coinpayments.net/" target="_blank">CoinPayments</a> is currently the preferred method of accepting Vertcoin for your online business. CoinPayments charges a 0.5% fee for its services and has integrations with various popular <a href="https://www.coinpayments.net/merchant-tools-plugins" target="_blank">e-commerce platforms</a> including WooCommerce, <a href="https://www.coinpayments.net/shopify/" target="_blank">Shopify</a>, Xcart, drupal and wordpress.
+
+# For Developers
+
+Vertcoin is compatible with most existing libraries intended for Bitcoin such as <a href="https://github.com/bitcoinjs/bitcoinjs-lib" target="_blank">bitcoinjs-lib</a> and <a href="https://github.com/petertodd/python-bitcoinlib" target="_blank">python-bitcoinlib</a>. Vertcoin also has ports of <a href="https://github.com/vertcoin-project/vertcore" target="_blank">Bitcore</a>, <a href="https://insight.vertcoin.org" target="_blank">Insight</a> and <a href="https://github.com/kyuupichan/electrumx" target="_blank">Electrum</a>.
+
+
+
 
 # Debit cards
 * [Uquid](https://uquid.com/altcoin-debit-card)

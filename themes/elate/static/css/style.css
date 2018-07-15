@@ -2689,3 +2689,25 @@ a.largeButton:hover {
   color: #148554;
 }
 
+
+.tab input {
+  display: none;
+}
+
+.tab label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 800;
+    margin-top: 14px;
+    font-size: 18px;
+}
+
+.tab-content svg {
+  margin: 1em 0;
+  width: 100%;
+  height: auto;
+}
+
+
+

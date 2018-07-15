@@ -76,14 +76,14 @@
 
 
     [lit_description]
-    other = "Lit es lo que Lightning debÌa ser. De hecho, es el cÛdigo original del coautor del libro blanco. LIT permite la interoperabilidad de criptomonedas multi-moneda, transacciones casi instant·neas y gratuitas, resuelve el problema de escalado y elimina la congestiÛn de la red que conduce a altas tarifas de transacciÛn y velocidades de transacciÛn lentas, LIT es una soluciÛn real para criptomonedas como Bitcoin, Vertcoin y Litecoin ... oh y es r·pido"
+    other = "Lit es lo que Lightning deb√≠a ser. De hecho, es el c√≥digo original del coautor del libro blanco. LIT permite la interoperabilidad de criptomonedas multi-moneda, transacciones casi instant√°neas y gratuitas, resuelve el problema de escalado y elimina la congesti√≥n de la red que conduce a altas tarifas de transacci√≥n y velocidades de transacci√≥n lentas, LIT es una soluci√≥n real para criptomonedas como Bitcoin, Vertcoin y Litecoin ... oh y es r√°pido"
 
 
 
 # LITBOX
 
     [litBox_title]
-    other = "Reunirse LITbox: El ëRouterí de Crypto"
+    other = "Reunirse LITbox: El ‚ÄòRouter‚Äô de Crypto"
 
     [litboxPoints_0_title]
     other = "Direccion unica para sus monedas"
@@ -96,7 +96,7 @@
 
 
     [litBox_description]
-    other = "LITbox es un proyecto de Vertcoin y es la pieza final para completar un sistema totalmente confiable, escalable, resistente a la censura y es f·cil de usar la sistema de lightning. Hemos estado jugando al juego largo durante los ˙ltimos cuatro aÒos. Un futuro multi-mondea y multicanal est· a la vuelta de la esquina. Un futuro en que las personas usan criptomonedas para hacer la compra y los comerciantes lo acepten debido a las tarifas ridÌculamente bajas (lo siento bancos). Vertcoin est· impulsando la revolucionaria interfaz de usuario de LITbox. Estamos haciÈndolo accesible para usuarios diario, comerciantes e incluso sus padres (asÌ es, baby boomers, pensamos en ti tambiÈn)"
+    other = "LITbox es un proyecto de Vertcoin y es la pieza final para completar un sistema totalmente confiable, escalable, resistente a la censura y es f√°cil de usar la sistema de lightning. Hemos estado jugando al juego largo durante los √∫ltimos cuatro a√±os. Un futuro multi-mondea y multicanal est√° a la vuelta de la esquina. Un futuro en que las personas usan criptomonedas para hacer la compra y los comerciantes lo acepten debido a las tarifas rid√≠culamente bajas (lo siento bancos). Vertcoin est√° impulsando la revolucionaria interfaz de usuario de LITbox. Estamos haci√©ndolo accesible para usuarios diario, comerciantes e incluso sus padres (as√≠ es, baby boomers, pensamos en ti tambi√©n)"
 
 # Mining Call To Action
 
@@ -113,7 +113,7 @@
 
 
     [reason_description]
-    other = "Vertcoin corre lo m·s cerca posible de los fundamentos de Criptomonedas, todo el movimiento de 'ser tu propio banco' que iniciÛ el movimiento de criptomonedas. Vertcoin persigue algo completamente diferente de ICO / Preminar, toma y ejecuta tripulaciÛn. Solo queremos cambiar el sistema financiero para mejor"
+    other = "Vertcoin corre lo m√°s cerca posible de los fundamentos de Criptomonedas, todo el movimiento de 'ser tu propio banco' que inici√≥ el movimiento de criptomonedas. Vertcoin persigue algo completamente diferente de ICO / Preminar, toma y ejecuta tripulaci√≥n. Solo queremos cambiar el sistema financiero para mejor"
 
 
 # Values
@@ -146,34 +146,34 @@
     [about_0_position]
     other = "Conjunto de habilidades multiples"
     [about_0_description]
-    other = "La comunidad is la fuerza que carga Vertcoin en todo lo que completado. Estamos orgullosos para jactarse de una comunidad que es apasionada por el future de Vertcoin y estan dispuestos a tomar mendidas para que las cosas sucedan. Otras monedas necesitan dinero para crecer, Vertcoin tiene una visiÛn compartida con sus usuarios que impulsa su camino hacia Adelante."
+    other = "La comunidad is la fuerza que carga Vertcoin en todo lo que completado. Estamos orgullosos para jactarse de una comunidad que es apasionada por el future de Vertcoin y estan dispuestos a tomar mendidas para que las cosas sucedan. Otras monedas necesitan dinero para crecer, Vertcoin tiene una visi√≥n compartida con sus usuarios que impulsa su camino hacia Adelante."
 
     
     [about_1_position]
     other = "Desarrollador Principal"
     [about_1_description]
-    other = "James ha estado programando de una forma o otra desde los 10 aÒos. Actualmente es investigador universitario en el MIT DCI y trabaja en la promulgaciÛn de una polÌtica monetaria descentralizada."
+    other = "James ha estado programando de una forma o otra desde los 10 a√±os. Actualmente es investigador universitario en el MIT DCI y trabaja en la promulgaci√≥n de una pol√≠tica monetaria descentralizada."
 
 
 
     [about_2_position]
     other = "Desarrollador"
     [about_2_description]
-    other = "La principal experiencia de desarrollo de Joe ha sido en .NET y C #, con habilidades secundarias en varios otros idiomas. Trabaja en el campo de la fÌsica, fabricaciÛn de instrumentaciÛn de detecciÛn de radiaciÛn. Ha estado involucrado en Vertcoin desde principios de 2014."
+    other = "La principal experiencia de desarrollo de Joe ha sido en .NET y C #, con habilidades secundarias en varios otros idiomas. Trabaja en el campo de la f√≠sica, fabricaci√≥n de instrumentaci√≥n de detecci√≥n de radiaci√≥n. Ha estado involucrado en Vertcoin desde principios de 2014."
 
     
 
     [about_3_position]
     other = "Desarrollador"
     [about_3_description]
-    other = "Consido como ETANG600 ha sido minero y miembro activo de la comunidad crypto desde 2013. Desde que descubriÛ Vertcoin, ha estado ayudando con la presencia en redes sociales y las tareas de desarrollo de Vertcoin."
+    other = "Consido como ETANG600 ha sido minero y miembro activo de la comunidad crypto desde 2013. Desde que descubri√≥ Vertcoin, ha estado ayudando con la presencia en redes sociales y las tareas de desarrollo de Vertcoin."
 
 
 
     [about_4_position]
     other = "Desarrollador"
     [about_4_description]
-    other = "Estralla comenzÛ a minar y apoyar la red de Vertcoin desde 2014. Se uniÛ a nuestro equipo en 2017 para centrarse en la programaciÛn web y la marca. Contin˙a consultando y ayudando a hacer crecer a la comunidad en lÌnea. Godwits trabaja con el equipo central para involucrarse con posibles socios y representantes en Estados Unidos / Corea del Sur."
+    other = "Estralla comenz√≥ a minar y apoyar la red de Vertcoin desde 2014. Se uni√≥ a nuestro equipo en 2017 para centrarse en la programaci√≥n web y la marca. Contin√∫a consultando y ayudando a hacer crecer a la comunidad en l√≠nea. Godwits trabaja con el equipo central para involucrarse con posibles socios y representantes en Estados Unidos / Corea del Sur."
 
 
 
@@ -181,20 +181,20 @@
     [about_5_position]
     other = "Desarrollador"
     [about_5_description]
-    other = "Gert-Jaap se uniÛ a Vertcoin en 2017. ComenzÛ como novato de blockchain en Vertcoin, pero actualmente est· involucrado en la mayorÌa de las actividades de desarrollo. El enfoque principal es la billetera de prÛxima generaciÛn de Vertcoin centrada en Lightning Network, y tambiÈn contribuye cuando es necesario."
+    other = "Gert-Jaap se uni√≥ a Vertcoin en 2017. Comenz√≥ como novato de blockchain en Vertcoin, pero actualmente est√° involucrado en la mayor√≠a de las actividades de desarrollo. El enfoque principal es la billetera de pr√≥xima generaci√≥n de Vertcoin centrada en Lightning Network, y tambi√©n contribuye cuando es necesario."
 
 
     [about_6_position]
     other = "Desarrollador"
     [about_6_description]
-    other = "Alex es un Ingeniero en ComputaciÛn con experiencia en el diseÒo de CPU de clase servidor, escritura de software de prueba metal basico y realizaciÛn de validaciÛn post silicio. Alex se enfoca en el desarrollo y soporte de Vertcoin CUDA / OpenCL Mining Software"
+    other = "Alex es un Ingeniero en Computaci√≥n con experiencia en el dise√±o de CPU de clase servidor, escritura de software de prueba metal basico y realizaci√≥n de validaci√≥n post silicio. Alex se enfoca en el desarrollo y soporte de Vertcoin CUDA / OpenCL Mining Software"
 
 
 
     [about_7_position]
     other = "Desarrollador"
     [about_7_description]
-    other = "jk_14 nos ha ayudado a crear la billetera de Vertcoin para Android y es autor de la distribuciÛn de GNU / Linux para minerÌa llamada KopiemTu. Ha estado involucrado en criptomonedas desde 2013 e iniciÛ MobileCash, una moneda que se puede combinar con Vertcoin."
+    other = "jk_14 nos ha ayudado a crear la billetera de Vertcoin para Android y es autor de la distribuci√≥n de GNU / Linux para miner√≠a llamada KopiemTu. Ha estado involucrado en criptomonedas desde 2013 e inici√≥ MobileCash, una moneda que se puede combinar con Vertcoin."
 
 
     [about_8_position]
@@ -206,19 +206,19 @@
     [about_9_position]
     other = "Relaciones Publicas (Japon)"
     [about_9_description]
-    other = "Daiki es nuestro representante JaponÈs que est· trabajando estrechamente con el equipo central para brindar oportunidades y alianzas potenciales en las principales ciudades de JapÛn."
+    other = "Daiki es nuestro representante Japon√©s que est√° trabajando estrechamente con el equipo central para brindar oportunidades y alianzas potenciales en las principales ciudades de Jap√≥n."
 
     
     [about_10_position]
     other = "Desarrollador"
     [about_10_description]
-    other = "CryptoPlankton ayudÛ a construir el nuevo sitio web de Vertcoin e implementar varias mejoras de marca. Actualmente est· trabajando en la aplicaciÛn multicoin lightning wallet como especialista en UX."
+    other = "CryptoPlankton ayud√≥ a construir el nuevo sitio web de Vertcoin e implementar varias mejoras de marca. Actualmente est√° trabajando en la aplicaci√≥n multicoin lightning wallet como especialista en UX."
 
     
     [about_11_position]
     other = "Desarrollador e iniciador del Recompensa de errores/Bug Bounty "
     [about_11_description]
-    other = "Suriyaa ha estado programando desde los 11 aÒos. …l es un estudiante de TUM, trabajando en m˙ltiples proyectos de cÛdigo abierto. Suriyaa se uniÛ al equipo de Vertcoin en junio de 2018 despuÈs de que un amigo le recomendara usar Vertcoin. ComenzÛ como desarrollador, pero actualmente est· involucrado en el desarrollo web. …l es el iniciador del programa Bug Bounty de Vertcoin."
+    other = "Suriyaa ha estado programando desde los 11 a√±os. √âl es un estudiante de TUM, trabajando en m√∫ltiples proyectos de c√≥digo abierto. Suriyaa se uni√≥ al equipo de Vertcoin en junio de 2018 despu√©s de que un amigo le recomendara usar Vertcoin. Comenz√≥ como desarrollador, pero actualmente est√° involucrado en el desarrollo web. √âl es el iniciador del programa Bug Bounty de Vertcoin."
 
 
 

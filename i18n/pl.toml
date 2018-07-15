@@ -1,0 +1,141 @@
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Sprzedawcy"
+
+	
+	[navigation_titles_trading]
+    other = "Handel"
+	
+	[navigation_titles_mine]
+    other = "Wydobywanie"
+	
+	[navigation_titles_community]
+    other = "Spòecznoœæ"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Czym jest Vertcoin?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Zacznij przygodê z Vertcoin'em"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "Albo zapoznaj siê z informacjami"
+
+    [quickOverview_0_title]
+    other = "Dla Ka¿dego"
+
+    [quickOverview_1_title]
+    other = "Dla Biznesu"
+
+    [quickOverview_2_title]
+    other = "Dla Deweloperów"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "Tworz¹c lepsz¹ sieæ Lightning"
+
+
+    [litPoints_0_title]
+    other = "Wbudowana wielowalutowoœæ"
+
+    [litPoints_1_title]
+    other = "Ujednolicona sieæ Lightning"
+
+    [litPoints_2_title]
+    other = "Lepsza architektura"
+
+
+
+    [litDiagram_title]
+    other = "Obecnie"
+
+
+
+    [lit_description]
+    other = "LIT jest tym czym mia³a byæ sieæ Lightning. Co wiêcej, posiada oryginalny kod, który zosta³ stworzony przez wspó³autora bia³ej ksiêgi sieci Lightning. LIT pozwala na wspó³dzia³anie wielu walut, b³yskawicznie szybkie i niemal darmowe transakcje, rozwi¹zuje problem skalowalnoœci i zapychania siê sieci, co prowadzi do zwiêkszonych op³at i wolniejszych transakcji. LIT jest rzeczywistym rozwi¹zaniem dla kryptowalut takich jak Bitcoin, Vertcoin i Litecoin... ahh no i jest super szybki."
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Poznaj LITbox'a: 'Router' dla kryptowalut"
+
+    [litboxPoints_0_title]
+    other = "Jeden adres dla wszystkich kryptowalut"
+
+    [litboxPoints_1_title]
+    other = "Super szybkie p³atnoœci za pomoc¹ sieci Lightning"
+
+    [litboxPoints_2_title]
+    other = "Odporny na cenzure"
+
+
+    [litBox_description]
+    other = "LITbox to projekt Vertcoin'a polegaj¹cy na stworzeniu niewymagaj¹cego zaufania, skalowalnego, odpornego na cenzure,systemu  ³atwego w u¿yciu, pozwalaj¹cego na dokonywanie p³atnoœci w sieci Lightning. Rozgrywamy tê d³ug¹ grê przez ostatnie 4 lata. Wielowalutowa, wielokana³owa przysz³oœæ jest tu¿ za rogiem.Przysz³oœæ w której ludzie u¿ywaj¹ kryptowalut robi¹c codzienne zakupy, gdzie sprzedawcy akceptuj¹ je dziêki œmiesznie niskim op³atom transakcyjnym(przepraszamy banki!). To Vertcoin napêdza rewolucyjny interfejs LITbox'a, któego celem jest stworzenie systemu ³atwego w obs³udze dla codziennego u¿ytkownika, dla sprzedawców, a nawet ich starzej¹cych siê rodziców(W³aœnie tak! O was te¿ pomyœleliœmy!)"
+ 
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Do³¹cz do tysiêcy górników tworz¹cych sieæ Vertcoina"
+    [oneClick_description]
+    other = "Waluta Ludzi"
+    [oneClick_download]
+    other = "Kliknij raz i zacznij kopaæ!"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = "Vertcoin dzia³a zgodnie z podstawowymi fundamentami kryptowalut jak blisko tylko siê da, czyli ca³ym ruchem 'B¹dŸ swoim w³asnym bankiem', który rozpocza³ ruch kryptowalutowy. Vertcoin d¹¿y do zupe³nie czegoœ innego w porównaniu do walut z ICO czy tych posiadaj¹cych wczeœniejsze wydobycie, których deweloperzy zgarniaj¹ kasê i uciekaj¹. Chcemy po prostu zmieniæ system finansowy na lepszy."
+
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "Bez Premine'u"
+
+    [values_1_title]
+    other = "Bez ICO"
+
+    [values_2_title]
+    other = "Bez Airdrop'u"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin rozwijany jest wy³¹cznie dziêki dotacjom spo³ecznoœci <a href='/donate'>donations</a>."

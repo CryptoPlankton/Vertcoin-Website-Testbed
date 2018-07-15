@@ -24,24 +24,19 @@ theme = "elate"
     weight = 2
     url = "/fr"
 
-  [languages.ja]
-    
-    languageName = "日本語"
-    weight = 3
-    url = "/ja"
 
 
   [languages.cn]
     
     languageName = "中文"
-    weight = 4
+    weight = 3
     url = "/cn"
 
     
 
   [languages.ko]
     languageName = "한국의"
-    weight = 5
+    weight = 4
     url = "/ko"
 
 
@@ -49,44 +44,38 @@ theme = "elate"
    
 [languages.es]
     languageName = "Español"
-    weight = 6
+    weight = 5
     url = "/es"
 
     [languages.nl]
     languageName = "Nederlands"
-    weight = 7
+    weight = 6
     url = "/nl"
 
 
   [languages.cz]
     languageName = "Čeština"
-    weight = 8
+    weight = 7
     url = "/cz"
-
-
-[languages.ru]
-    languageName = "Русский"
-    weight = 9
-    url = "/ru"
 
 
 [languages.de]
     languageName = "Deutsch"
-    weight = 10
+    weight = 8
     url = "/de"
 
   
 
-[languages.ar]
-    languageName = "العربية"
-    weight = 11
-    url = "/ar"
 
     [languages.it]
     languageName = "Italiano"
-    weight = 12
+    weight = 9
     url = "/it"
 
+ [languages.pl]
+    languageName = "Polski"
+    weight = 10
+    url = "/pl"
 
     
 
