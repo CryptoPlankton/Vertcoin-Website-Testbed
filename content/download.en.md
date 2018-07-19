@@ -34,6 +34,8 @@ The Vertcoin One-Click Miner is by far the easiest way to get started. It's a us
 ![One click miner screenshot](/images/oneclickminer.png)
 
 
+
+
 # Vertcoin Wallets
 
 The Vertcoin Development team provides two different wallets that users can store their Vertcoin
@@ -87,6 +89,6 @@ can be imported into Electrum-VTC or Vertcoin Core at a later date and spent fro
 |<a href="https://walletgenerator.net/?currency=Vertcoin" target="_blank">WalletGenerator</a>|
 
 
-
+> tldr: Confused? Maybe find out what <a href="/whatismining">mining</a> is first, it may help you understand what's happening.
 
 

@@ -132,7 +132,7 @@ Well isn't it obvious? If mining were just a spade sure, use the most powerful e
 
 So, you want the most widely available tool that produces a fair amount of hashrate, which currently manifests itself as a Graphics Card.
 
-CPUs would be great too but unfortunately there's viruses that take over hundreds of thousands of computers called Botnets (they're almost as bad as ASICs).
+CPUs would be great too but unfortunately there are viruses that take over hundreds of thousands of computers called Botnets (they're almost as bad as ASICs).
 
 
 > tldr: equal out all the devices as much as possible, blockchain security equals total hashrate / how distributed it is. Hashrate by itself is not security.

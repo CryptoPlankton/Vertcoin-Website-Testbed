@@ -53,3 +53,6 @@ or sell coins using bank transfer or credit/debit card.
 For a semi-complete list of exchanges, brokers and their relative trading volumes/prices, you can check
 <a href="https://coinmarketcap.com/currencies/vertcoin/#markets" target="_blank">CoinMarketCap</a>.
 
+# Want to list Vertcoin?
+
+> eric@vertcoin.org
