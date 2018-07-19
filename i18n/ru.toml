@@ -1,0 +1,141 @@
+# Navigation
+ 
+   
+    [navigation_titles_merchants]
+    other = "Продавцы"
+   
+    [navigation_titles_trading]
+    other = "Трейдинг"
+   
+    [navigation_titles_mine]
+    other = "Майнинг"
+   
+    [navigation_titles_community]
+    other = "Сообщество"
+   
+   
+   
+ 
+# What is Vertcoin
+ 
+   
+    [what_title]
+    other = "Что такое Vertcoin?"
+ 
+ 
+ 
+# Get Started Button
+ 
+    [getStarted_title]
+    other = "Начать работу с Vertcoin"
+ 
+ 
+ 
+ 
+# Quick Overview
+ 
+ 
+    [overview_title]
+    other = "или вкратце ознакомиться"
+ 
+    [quickOverview_0_title]
+    other = "Частным лицам"
+ 
+    [quickOverview_1_title]
+    other = "Бизнесу"
+ 
+    [quickOverview_2_title]
+    other = "Разработчикам"
+ 
+ 
+ 
+# LIT
+ 
+ 
+    [lit_title]
+    other = "Создаём лучшую сеть Lightning"
+ 
+ 
+    [litPoints_0_title]
+    other = "Изначально мультивалютная система"
+ 
+    [litPoints_1_title]
+    other = "Объединенная сеть Lightning"
+ 
+    [litPoints_2_title]
+    other = "Лучшая архитектура"
+ 
+ 
+ 
+    [litDiagram_title]
+    other = "На данный момент"
+ 
+ 
+ 
+    [lit_description]
+    other = "LIT это воплощение сети Lightning, код которого написан соавтором изначальной идеи Lightning. LIT позволяет мгновенно совершать межвалютные операции бесплатно, решает проблемы масштабирования и перегрузок в сети, которые приводят к высокой плате за транзакции, а так же к их замедлению. LIT это практическое решение для таких криптовалют, как Bitcoin, Vertcoin, Litecoin... и оно действительно быстрое."
+ 
+ 
+ 
+ 
+ 
+# LITBOX
+ 
+    [litBox_title]
+    other = "Встречайте LITbox: маршрутизатор в мире криптовалют"
+ 
+    [litboxPoints_0_title]
+    other = "Единый адрес для разных монет"
+ 
+    [litboxPoints_1_title]
+    other = "Мгновенные платежи"
+ 
+    [litboxPoints_2_title]
+    other = "Устойчивость к блокировкам"
+ 
+ 
+    [litBox_description]
+    other = "LITbox это проект Vertcoin, который является заключительным штрихом в создании надежной, масштабируемой, простой в использовании и устойчивой к блокировкам системы, основывающейся на принципах Lightning. Мы прошли долгий путь за последние четыре года. Мультивалютное, мультиканальное будущее уже совсем близко. Будущее, в котором люди будут покупать продукты за криптовалюту, а продавцы будут её принимать благодаря сверхнизкой плате за услуги сети (прощайте банки). Vertcoin является движущей силой в создании революционного интерфейса LITbox'а. Мы делаем его доступным для обычных пользователей, продавцов и даже их родителей."
+ 
+ 
+ 
+ 
+ 
+# Mining Call To Action
+ 
+ 
+    [oneClick_title]
+    other = "Присоединяйтесь к тысячам майнеров и поддержите сеть Vertcoin"
+    [oneClick_description]
+    other = "МОНЕТА ДЛЯ ЛЮДЕЙ"
+    [oneClick_download]
+    other = "Скачать One-Click Miner"
+ 
+ 
+ 
+ 
+# Reason
+ 
+ 
+    [reason_description]
+    other = 'Vertcoin основывается на фундаментальных ценностях криптовалютного мира, на идеологии "сам себе банк", положенной в основу всего криптовалютного движения. Vertcoin преследует цели, в корне отличающиеся от ICO или "дорелизного" (предварительного) майнинга, в духе "нахватал и сбежал". Всё, что мы хотим - это изменить к лучшему финансовую систему.'
+ 
+ 
+ 
+# Values
+ 
+ 
+[values_0_title]
+    other = "Без премайна"
+ 
+    [values_1_title]
+    other = "Без ICO"
+ 
+    [values_2_title]
+    other = "Без Airdrop"
+ 
+ 
+# Footer
+ 
+[donationRun_title]
+    other = "Vertcoin функционирует благодаря <a href='/donate'>пожертвованиям</a> сообщества."

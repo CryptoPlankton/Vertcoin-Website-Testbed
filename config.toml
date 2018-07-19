@@ -77,6 +77,11 @@ theme = "elate"
     weight = 10
     url = "/pl"
 
+    [languages.ru]
+    languageName = "Русский"
+    weight = 11
+    url = "/ru"
+
     
 
     
