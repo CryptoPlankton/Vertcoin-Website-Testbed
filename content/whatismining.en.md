@@ -22,7 +22,7 @@ Miners also control the history and current events that happen on the blockchain
   frameborder="0"></iframe>
 <br><br>
 
-> <strong>tldr:</strong> Mining cryptocurrency is like a spade that's also a voting tool simultaneously... if enough of them are malicious your blockchain blows up, so make sure there isn't a single actor mining everything...
+> <strong>tldr:</strong> Mining is like a spade that's also a voting tool simultaneously... if enough of them are malicious your blockchain blows up, so make sure there isn't a single actor...
 
 
 # Why does Vertcoin use GPUs then?

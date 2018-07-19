@@ -26,6 +26,11 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
 </svg>
         <p>Everyone rants about blockchain all the time when arguably Proof-Of-Work was a greater innovation than blockchain itself. The whole point of crypto is to be a trustless digital commoditity Proof-Of-Work is the mechanism that allows this. If you dive deeper, the energy required behind proof-of-work is what makes it secure/effective. The simplest way to explain the methodly behind this is 'nothing in the world comes for free'. This is the same when dealing with consensus algorithms.
         </p>
+        <blockquote>
+          <p>
+            <strong>tldr:</strong> Proof-Of-Work + Blockchain is a bigger deal that you think it is.
+          </p>
+        </blockquote>
       </div>
     </div>
     <div class="tab">
@@ -234,6 +239,11 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
     </g>
 </svg>
         <p>Vertcoin uses Kimoto Gravity Well for its difficulty adjustment which adjusts mining difficulty every block. As a coin with a smaller hashrate it's important to adjust difficulty every block to avoid hashrate attacks. Cryptocurrencies like Bitcoin can afford to use longer difficulty adjustments.</p>
+        <blockquote>
+          <p>
+            <strong>tldr:</strong> Difficulty adjusts every block to stop mining abuse.
+          </p>
+        </blockquote>
       </div>
       <div class="tab">
       <input id="tab-six" type="checkbox" name="tabs">

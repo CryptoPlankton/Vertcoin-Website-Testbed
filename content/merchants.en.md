@@ -4,6 +4,8 @@ date: 2018-01-09T01:51:53Z
 draft: false
 ---
 
+
+
 Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support. You can add yourself to our merchant list visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
 
 
