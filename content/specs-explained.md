@@ -48,6 +48,11 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
     </g>
 </svg>
         <p></p>
+        <blockquote>
+          <p>
+            <strong>tldr:</strong> Yes we know about Proof-Of-Stake. Yes we know how cool it sounds. To put it simply "Nothing comes for free", is why Proof-Of-Work is better.
+          </p>
+        </blockquote>
       </div>
     </div>
     <div class="tab">
@@ -241,7 +246,7 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
         <p>Vertcoin uses Kimoto Gravity Well for its difficulty adjustment which adjusts mining difficulty every block. As a coin with a smaller hashrate it's important to adjust difficulty every block to avoid hashrate attacks. Cryptocurrencies like Bitcoin can afford to use longer difficulty adjustments.</p>
         <blockquote>
           <p>
-            <strong>tldr:</strong> Difficulty adjusts every block to stop mining abuse.
+            <strong>tldr:</strong> Difficulty adjusts every block to stop mining abuse. Bitcoin can afford a longer adjustment as it is has a larger hashrate.
           </p>
         </blockquote>
       </div>
@@ -307,7 +312,7 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
         </g>
     </g>
 </svg>
-        <p>Trying to build a distributed system with masternodes is not only entirely moronic, it's an oxymoron.</p>
+        <p>Trying to build a distributed system with masternodes is not only entirely moronic, it's an oxymoron. <a href="/whatismining">Read this for further clarification</a></p>
       </div>
       <div class="tab">
       <input id="tab-nine" type="checkbox" name="tabs">
