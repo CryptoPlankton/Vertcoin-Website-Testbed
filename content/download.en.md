@@ -70,8 +70,8 @@ on <a href="https://play.google.com/store/apps/details?id=com.coinomi.wallet" ta
 
 A hardware wallet allows you to store your Vertcoins without the private keys ever
 having to leave the device. This prevents remote attackers or viruses on your computer
-from redirecting or stealing your coins. Currently the only hardware wallet for VTC is
-sold by <a href="https://www.ledgerwallet.com/" target="_blank">Ledger</a>.
+from redirecting or stealing your coins. Currently the hardware wallets sold for VTC are
+<a href="https://www.ledgerwallet.com/" target="_blank">Ledger</a> and <a href="https://trezor.io/" target="_blank">Trezor</a>.
 
 # Paper Wallets
 
