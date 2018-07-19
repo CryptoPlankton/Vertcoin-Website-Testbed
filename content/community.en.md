@@ -24,3 +24,6 @@ If you're capable of programming in either C++, Go, VB.Net, NodeJS, or Android (
 
 # Graphic Design
 If you're handy with graphics/photoshop/web design you can reach out to our marketing team on <a href="https://discord.gg/vertcoin" target="_blank">Discord</a> and they can use your help with all sorts of marketing materials. We can always use an extra set of hands. Not necessarily as a marketing team member, but for one-off design assignments they can always use help.
+
+
+

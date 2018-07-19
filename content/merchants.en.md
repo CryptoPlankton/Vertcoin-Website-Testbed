@@ -6,19 +6,6 @@ draft: false
 
 Vertcoin is almost a drop-in replacement for Bitcoin so if you already support Bitcoin, Vertcoin should be trivial to support. You can add yourself to our merchant list visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
 
-Why accept? - Section
-
-Our community and market - Section
-
-Benefits - Section
-
-Merchant onboarding kit. 
-
-CTA - Start accepting now (integration section). 
-
-Check out our current merchants
-
-# Merchant Onboarding Kit     
 
 # Payment Gateways
 
@@ -29,7 +16,7 @@ Payment gateways accept Vertcoin on your behalf and give you your national curre
 Vertcoin is compatible with most existing libraries intended for Bitcoin such as <a href="https://github.com/bitcoinjs/bitcoinjs-lib" target="_blank">bitcoinjs-lib</a> and <a href="https://github.com/petertodd/python-bitcoinlib" target="_blank">python-bitcoinlib</a>. Vertcoin also has ports of <a href="https://github.com/vertcoin-project/vertcore" target="_blank">Bitcore</a>, <a href="https://insight.vertcoin.org" target="_blank">Insight</a> and <a href="https://github.com/kyuupichan/electrumx" target="_blank">Electrum</a>.
 
 
-
+<div style="max-width: 794px; height: 1px; background: #dadada; margin-top: 60px;"></div>
 
 
 
