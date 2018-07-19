@@ -94,3 +94,8 @@ Vertcoin is compatible with most existing libraries intended for Bitcoin such as
 
 # (NSFW) Adult shops
 * [Toys4sex  the adult shop ](http://toys4sex.com.au/)
+
+<div style="max-width: 794px; height: 1px; background: #dadada; margin-top: 60px; margin-bottom: 60px;"></div>
+
+
+> You can add yourself to our merchant list visiting us on [discord](https://discord.gg/vertcoin) or on the Vertcoin [subreddit] (https://reddit.com/r/vertcoin).
