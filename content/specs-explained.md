@@ -281,7 +281,7 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
         </text>
     </g>
 </svg>
-        <p>When people say this, they have no clue what they actually mean. If you tell distributed systems researcher "y no feeless & instant", they'd laugh at you. The reason for this misunderstanding is also grounded in the part of the dstributed systems that the general public misunderstand the most, consensus.<br><br> It's not possible for a system that's spread across the entire global to come to agreement instantly, it's not possible due the laws of physics.<br><br> Fees on a blockchain are also grossely mistunderstood, a fee is not a developer fee, it's a deference mechanism of the blockchain to prevent spam getting DDOS'ed into the ground.</p>
+        <p>When people say this, they have no clue what they actually mean. If you tell distributed systems researcher "y no feeless & instant", they'd laugh at you. The reason for this misunderstanding is also grounded in the part of the dstributed systems the general public misunderstands the most, consensus.<br><br> It's not possible for a system that's spread across the entire global to come to agreement instantly, it's not possible due the laws of physics.<br><br> Fees on a blockchain are also grossely mistunderstood, a fee is not a developer fee, it's a deference mechanism of the blockchain to prevent spam getting DDOS'ed into the ground.</p>
         <blockquote>
           <p>
             <strong>tldr:</strong> It doesn't matter how many ways you spin this build it has fundamental problems that cannot be fixed due to how the internet infrastructure works today / speed of light etc, read the next diagram if you want further clarification.
@@ -347,6 +347,9 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
     </g>
 </svg>
         <p>On-chain voting with Proof-Of-Work is quite an interesting proposal. The problem with this one is that the early adopters will have the most voting power in the blockchain. A project like this would need to be mature enough price wise to avoid all coins being maliciously bought up. The other issue is that this would be a permissioned system ie: you need permission from a holder to participate in consensus ie: buy their coins. Using comodity based hardware to vote enables everyone to participate and vote, making something like Vertcoin a permissionless system rather than a permissioned system.</p>
+        <blockquote>
+          <p><strong>tldr:</strong> on-chain voting is better than most systems but fails in the permissioned/permissionless area.</p>
+        </blockquote>
       </div>
       <div class="tab">
       <input id="tab-eight" type="checkbox" name="tabs">
@@ -487,6 +490,9 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
     </g>
 </svg>
         <p>Blockchain specifications exist in a balance, at both extremes problems start to appear and effect different parts of the build. Vertcoin exists in its current form due to this balance. If extremes are chosen it will introduce irrevesible damage. Get the balance right or face the consequences long term.</p>
+        <blockquote>
+          <p><strong>tldr:</strong> rock solid first layer specifications are key. Understanding how these specifications interact with each other is vital for long term health of the system.</p>
+        </blockquote>
       </div>
        <div class="tab">
       <input id="tab-eleven" type="checkbox" name="tabs">
