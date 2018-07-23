@@ -18,6 +18,7 @@ The Vertcoin One-Click Miner is by far the easiest way to get started. It's a us
 
 ![One click miner screenshot](/images/oneclickminer.png)
 
+
 # Advanced: Dedicated mining hardware
 
 If you're more than a casual miner, you can also consider investing in dedicated mining hardware. You can build a dedicated computer solely for mining, where most so-called _rigs_ contain 6 or more GPUs. By adding a bigger number of GPUs, the rewards are also proportionally higher - but so is the investment upfront. 

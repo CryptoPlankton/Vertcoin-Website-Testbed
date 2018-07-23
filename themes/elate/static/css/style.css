@@ -2551,7 +2551,6 @@ section.separator-greenLine:before {
 .largeButton {
   font-size: 20px;
     background: #148558;
-    background: #058657;
     max-width: 350px;
     margin: 0 auto;
     display: block;
@@ -2714,4 +2713,28 @@ a.largeButton:hover {
 
 iframe {
   background: #000;
+}
+
+
+
+
+@media (min-width: 767px) and (max-width: 991px) {
+    .youtubevid {
+        width: 640px;
+        height: 360px; /* 480px */
+    }
+}
+
+@media (min-width: 481px) and (max-width: 766px) {
+    .youtubevid {
+        width: 480px;
+        height: 270px; /* 320px */
+    }
+}
+
+@media (max-width: 480px) {
+    .youtubevid {
+        width: 340px;
+        height: 190px; /* 225px */
+    }
 }

@@ -17,10 +17,11 @@ Mining is essentially a race. Whoever finds a valid Proof-of-Work and gets the b
 Miners also control the history and current events that happen on the blockchain. If enough of these nodes are malicious they can disrupt the system.
 
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
+<iframe id="ytplayer" class="youtubevid" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/2HcmwfVzPEU?"
   frameborder="0"></iframe>
-<br><br>
+
+<br>
 
 > <strong>tldr:</strong> Mining is like a spade that's also a voting tool simultaneously... if enough of them are malicious your blockchain blows up, so make sure there isn't a single actor...
 
