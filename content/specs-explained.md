@@ -447,7 +447,7 @@ Blockchain specs are highly complicated and are often completely misunderstood. 
 So you could say that unknowingly, LIT is the 'Lightning Network' everyone has been describing...most people aren't aware of how lightning networks work/implemented.</p>
 <blockquote>
           <p>
-            <strong>tldr:</strong> LIT is a lightning network implementation separate from the bolt family that has better multicoin architecture.
+            <strong>tldr:</strong> LIT is a lightning network implementation separate from the bolt family that differs by using multicoin architecture achitecture at its base rather than connecting separate LN's together.
           </p>
         </blockquote>
       </div>
