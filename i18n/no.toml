@@ -1,0 +1,261 @@
+
+# Navigation
+
+    
+    [navigation_titles_merchants]
+    other = "Bedrifter"
+
+	
+	[navigation_titles_trading]
+    other = "Trading"
+	
+	[navigation_titles_mine]
+    other = "Mining"
+	
+	[navigation_titles_community]
+    other = "Samfunn"
+	
+	
+	
+
+# What is Vertcoin
+
+   
+    [what_title]
+    other = "Hva er Vertcoin?"
+
+
+
+# Get Started Button
+
+    [getStarted_title]
+    other = "Kom i gang med Vertcoin"
+
+
+
+
+# Quick Overview
+
+
+    [overview_title]
+    other = "Eller få en rask oversikt for"
+
+    [quickOverview_0_title]
+    other = "Privatpersoner"
+
+    [quickOverview_1_title]
+    other = "Næringsliv"
+
+    [quickOverview_2_title]
+    other = "Utviklere"
+
+
+
+# LIT
+
+
+    [lit_title]
+    other = "Et flervaluta Lightning Network"
+
+
+    [litPoints_0_title]
+    other = "Opprinnelig flervaluta"
+
+    [litPoints_1_title]
+    other = "Et samlet Lightning Network"
+
+    [litPoints_2_title]
+    other = "Åpen kildekode"
+
+
+
+    [litDiagram_title]
+    other = "Gjeldende"
+
+
+
+    [lit_description]
+    other = "LIT er en Lightning Network-implementering og er originalkoden skrevet av Tadge Dryja, medforfatter av Lightning Networks whitepaper. LIT tillater interoperabilitet mellom kryptovalutaer, nesten øyeblikkelige og gratis transaksjoner, det løser skaleringsproblemer og reduserer nettverkstrafikken som i dag fører til høye transaksjonsavgifter og trege transaksjoner. LIT er løsningen vi har ventet på for kryptovaluta som Bitcoin, Vertcoin og Litecoin; Og det er raskt!"
+
+
+
+
+
+# LITBOX
+
+    [litBox_title]
+    other = "Møt LITbox: Kryptoruteren"
+
+    [litboxPoints_0_title]
+    other = "Kun én adresse for alle dine valutaer"
+
+    [litboxPoints_1_title]
+    other = "Lightning-betaling"
+
+    [litboxPoints_2_title]
+    other = "Sensurresistent"
+
+
+    [litBox_description]
+    other = "LITbox er et Vertcoinprosjekt. Det er siste brikken for å fullføre et tillitsløst, skalerbart, sensurresistent, Lightning-aktivert system som er lett å bruke. Vi har vært tålmodige de siste fire årene. En flervaluta og flerkanals fremtid er rett rundt hjørnet. En fremtid hvor mennesker vil benytte kryptovaluta for å handle varer og tjenester, og hvor bedrifter vil benytte det på grunn av de lave avgiftene (beklager, banker). Vertcoin sørger for at LITbox' revolusjonære brukergrensesnitt gjør det tilgjengelig for mannen i gata, bedrifter og til og med foreldre og besteforeldre (Det er helt riktig, vi har tenkt på dere også!)."
+
+
+
+
+
+# Mining Call To Action
+
+
+    [oneClick_title]
+    other = "Slå deg sammen med tusener av minere for å støtte Vertcoins nettverk"
+    [oneClick_description]
+    other = "FOLKEVALUTAEN"
+    [oneClick_download]
+    other = "Last ned One-Click Miner"
+
+
+
+
+# Reason
+
+
+    [reason_description]
+    other = 'Vertcoin kjører så tett på selve grunntanken bak kryptovaluta som mulig, hele "vær din egen bank"-tankegangen som la grunnlaget for kryptovalutaene vi kjenner i dag. Vertcoin forsøker å oppnå noe helt annet enn det vi ser fra ICO/Premine/"pump and run"-folket. Vi vil bare endre verdens finansielle systemer til det bedre.'
+
+
+
+# Values
+
+
+[values_0_title]
+    other = "Ingen forhåndsmining"
+
+    [values_1_title]
+    other = "Ingen ICO"
+
+    [values_2_title]
+    other = "Ingen airdrops"
+
+
+# Footer
+
+[donationRun_title]
+    other = "Vertcoin kjører kun på samfunnets <a href='/donate'>donasjoner</a>."
+
+
+
+
+# Team List
+
+
+    [about_title]
+    other = "Teamet"
+    [about_description]
+    other = " "
+
+    [about_0_position]
+    other = "Bred kompetanse"
+    [about_0_description]
+    other = "Vertcoin-samfunnet har sørget for at vi har kommet dit vi er i dag. Vi er stolte over å ha støtte fra så mange som er lidenskapelig opptatte av Vertcoins fremtid og som samtidig er villige til å delta i dugnaden selv for å drive utviklingen fremover. Andre valutaer er avhengige av penger for å vokse, mens Vertcoin deler sin visjon med sine brukere, og dette driver i sin tur utviklingen fremover."
+
+
+    [about_1_position]
+    other = "Sjefsutvikler"
+    [about_1_description]
+    other = "James har programmert siden han først lærte dette som tiåring. Han er for tiden forskningselev ved MIT DCI (Massachusetts Institute of Technology, Digital Currency Initiative), hvor han jobber med å konstruere desentraliserte monetære retningslinjer."
+
+
+
+    [about_2_position]
+    other = "Utvikler"
+    [about_2_description]
+    other = "Joe har hovedsaklig utviklererfaring innen .NET og C#, i tillegg til flere andre språk. Han jobber innen fysikk for et firma som produserer strålingsdetektorer. Han har jobbet med Vertcoin siden tidlig i 2014."
+
+
+
+    [about_3_position]
+    other = "Utvikler"
+    [about_3_description]
+    other = "Også kjent som 'ETANG600' har minet og vært et aktivt medlem av kryptosamfunnet siden 2013. Siden han oppdaget Vertcoin har han både bidratt i Vertcoins kanaler på sosiale medier og drevet med utvikling."
+
+
+
+    [about_4_position]
+    other = "Utvikler"
+    [about_4_description]
+    other = "Star har minet og støttet Vertcoins nettverk siden 2014. Han ble en del av teamet i 2017 for å fokusere på webprogrammering og profilering. Han driver med rådgiving og bidrar i veksten av nettsamfunnet. Godwits jobber med kjerneteamet for å etablere potensielle partnerskap og representanter i USA / Sør-Korea."
+
+
+
+    [about_5_position]
+    other = "Utvikler"
+    [about_5_description]
+    other = "Gert-Jaap ble en del av Vertcoin-teamet i 2017. Han begynte som en nybegynner på blokkjede hos Vertcoin, men er nå involvert i det meste av utviklingen. Primærfokuset er rettet mot neste generasjons Vertcoin-lommebok sentrert rundt Lightning Network, men bistår samtidig der det måtte være nødvendig."
+
+
+    [about_6_position]
+    other = "Utvikler"
+    [about_6_description]
+    other = "Alex er dataingeniør med erfaring fra design av server-CPUer, han har skrevet 'baremetal'-testprogramvare og drevet med sluttvalidering av halvleder-ICer. Alex fokuserer på utvikling og support på Vertcoins CUDA/OpenCL miningsoftware."
+
+
+
+    [about_7_position]
+    other = "Utvikler"
+    [about_7_description]
+    other = "jk_14 har hjulpet oss med å lage Vertcoins Android-lommebok og han forfattet GNU/Linux distribusjonen for mining kalt KopiemTu. He har drevet med kryptovaluta siden 2013 og startet MobileCash, en kryptovaluta som kan merge-mines med Vertcoin."
+
+
+
+    [about_8_position]
+    other = "Utvikler"
+    [about_8_description]
+    other = "pknight har hjulpet oss med å lage Electrum-lommeboka. Han har drevet med kryptovaluta siden tidlig i 2014."
+
+
+
+
+    [about_9_position]
+    other = "PR(Japan)"
+    [about_9_description]
+    other = "Daiki er vår japanske representant og jobber tett med kjerneteamet for å finne muligheter og potensielle partnere i Japans største byer."
+
+    
+    [about_10_position]
+    other = "Utvikler"
+    [about_10_description]
+    other = "CryptoPlankton hjalp til med den nye Vertcoin-websiden og innførte oppgraderinger rundt merkevaren. Han jobber for tiden med vår flervaluta Lightning Wallet-applikasjon som UX-spesialist (brukeropplevelse)."
+
+    
+    [about_11_position]
+    other = "Utvikler & 'Bug Bounty'-initiativtager"
+    [about_11_description]
+    other = "Suriyaa har programmert siden han var 11 år gammel. Han studerer ved TUM (Technische Universität München), hvor han jobber med flere Open Source-prosjekter. Suriyaa ble en del av Vertcoin-teamet i juni 2018 etter at en venn anbefalte ham Vertcoin. Han begynte som utvikler, men er for tiden involvert i webutvikling. Han er initiativtageren til Vertcoins Bug Bounty-program."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#donation page
+[donation_donated]
+other = "Donert"
+
+[donation_goal]
+other = "Donasjonsmål"
+
+[donation_address]
+other = "VTC Donasjonsadresse"
+
+
+

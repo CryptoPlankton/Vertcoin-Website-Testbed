@@ -82,6 +82,12 @@ theme = "elate"
     weight = 11
     url = "/ru"
 
+
+    [languages.no]
+    languageName = "Nynorsk"
+    weight = 12
+    url = "/no"
+
     
 
     
