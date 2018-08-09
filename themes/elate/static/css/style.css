@@ -23,13 +23,13 @@ nav a {
 a {
   font-weight: 700;
   /* Web Font */
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
   font-style: normal;
   /*---------*/
 }
 
 body {
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
   font-size: 15px;
   line-height: 1.5;
   color: #1D1D1D;
@@ -41,7 +41,7 @@ body {
 
 strong, tr {
 
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
   font-weight: normal;
 
  
@@ -51,14 +51,14 @@ strong, tr {
 th {
   padding-right: 1.5em;
   /* Web Font */
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
   font-weight: normal;
   font-weight: 700;
   /*---------*/
 }
 
 tbody {
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
 
   
 }
@@ -85,7 +85,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   /*font-family: "Source Sans Pro", Arial, sans-serif;*/
-  font-family: "Montserrat";
+  font-family: "Montserrat",PingFang SC,Hiragino Sans GB,Heiti SC,Microsoft YaHei,monospace;
 
 
 
